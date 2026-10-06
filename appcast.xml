@@ -6,6 +6,15 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.5</title>
+      <pubDate>Tue, 06 Oct 2026 08:22:25 +0000</pubDate>
+      <sparkle:version>0.66.5.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Sons parecidos: botão ao lado de Grade mostra os arquivos mais parecidos com o som selecionado (⌥⇧⌘S).</li><li>Plugins adicionados pela aba Devices abrem a UI do fabricante, todos (não só o primeiro).</li><li>Botão direito na track do mixer: Renomear, Freeze, Bounce, Recortar, Copiar, Colar, Duplicar, Group, Insert Audio/Midi/Return e take lanes.</li><li>Reverb e Saturator calibrados.</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.5/Dreams-0.66.5.zip" length="18497985" type="application/octet-stream" sparkle:edSignature="KVh38IBXac2zYBTjph+I+qoPg8MpPRO7IkYTW5roHmbZ1P2ZRGqQzau0N8DigahxxjW9beTCymYxOcmrTWwtAg=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.4</title>
       <pubDate>Tue, 06 Oct 2026 06:26:44 +0000</pubDate>
       <sparkle:version>0.66.4.9999</sparkle:version>
