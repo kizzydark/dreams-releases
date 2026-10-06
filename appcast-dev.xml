@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Claude: Workflow macOS: build + feed de atualização (Sparkle)</title>
+      <pubDate>Tue, 06 Oct 2026 06:53:51 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.4.1</sparkle:version>
+      <sparkle:shortVersionString>0.66.4 dev 1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Workflow macOS: build + feed de atualização (Sparkle) (Claude)</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-1/Dreams-0.66.4-dev-1.zip" length="9412742" type="application/octet-stream" sparkle:edSignature="P52RWPh8slp0E4B5ewPrtOn4KiA69f7gmwxns9MMZY85Wc2EpQNFBQFtv8Py5sHl3lIsdoA1uKWfpmoy913OBQ=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.4</title>
       <pubDate>Tue, 06 Oct 2026 06:26:44 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
