@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.4</title>
+      <pubDate>Tue, 06 Oct 2026 06:26:44 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.4.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Delay Dreams: instância nova começa no modo Clássico (o Tape continua na lista).</li><li>Dreams EQ: ouvir disparo, limpar dinâmica, dividir L/R e M/S.</li><li>Correção do app que fechava ao abrir depois da atualização (0.66.3).</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.4/Dreams-0.66.4.zip" length="18366263" type="application/octet-stream" sparkle:edSignature="dLtCv2ckHd18PSP1JZ0vOwZQYEco9Ofdv5qAqwKtuQMc6C0dX15clIatLiOEm534vDFezyr/O/s6p6Uy1xukCA=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.3</title>
       <pubDate>Tue, 06 Oct 2026 06:09:50 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
