@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Dreams</title>
+    <link>https://github.com/kizzydark/dreams-releases</link>
+    <description>Atualizações do Dreams</description>
+    <language>pt-br</language>
+    <item>
+      <title>Dreams 0.66.0</title>
+      <pubDate>Tue, 06 Oct 2026 05:28:10 +0000</pubDate>
+      <sparkle:version>0.66.0.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Atualização automática dentro do Dreams (canais Estável, Beta e Dev), com sino na barra e painel de atualizações.</li><li>Tap Tempo: botão TAP ao lado do BPM; os toques só calculam, Aplicar BPM altera o projeto.</li><li>Key Map (⌘K) e MIDI Map (⌥⌘M) como no Ableton Live.</li><li>Altura da track na Playlist: arraste a borda do cabeçalho.</li><li>Painel de tema, arraste de trecho do Editor de Áudio, botões multifunção nos plugins, Synth 3x Osc, Saturator, Delay, Reverb, Filter, Limiter e mais.</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.0/Dreams-0.66.0.zip" length="18363673" type="application/octet-stream" sparkle:edSignature="bzs32CY5TZqR5cSjPViiBtXfw8bs9a9pwMIDKStEy9TyK/34xqcgXpNSAsUV35MhVb65dWW6ZEh8tFqsciceCQ=="/>
+    </item>
+  </channel>
+</rss>
