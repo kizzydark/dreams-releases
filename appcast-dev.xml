@@ -5,5 +5,15 @@
     <link>https://github.com/kizzydark/dreams-releases</link>
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
+    <item>
+      <title>Dreams 0.66.3</title>
+      <pubDate>Tue, 06 Oct 2026 06:09:50 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.3.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Corrige o app que fechava na hora depois da atualização (assinatura incompatível com o Sparkle).</li><li>Canal Dev por padrão; confere o feed a cada 15 s e avisa &#x27;Baixando a atualização...&#x27;.</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.3/Dreams-0.66.3.zip" length="18362456" type="application/octet-stream" sparkle:edSignature="dAtJnW3LQN5fV1BNRyBu0TWrJdPj3ZlWVGsYOXsrWgiiEPT0MC1aTPvQ4054jsVUEi9a0o8G5WKFjF2NJAGSDQ=="/>
+    </item>
   </channel>
 </rss>
