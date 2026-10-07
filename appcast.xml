@@ -6,6 +6,15 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.27</title>
+      <pubDate>Wed, 07 Oct 2026 13:12:35 +0000</pubDate>
+      <sparkle:version>0.66.27.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.27</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Chamadas com voz e vídeo (LiveKit; só macOS 12.3+, abaixo disso o app abre normalmente com aviso), Rodada 3 do Social, menus de microfone/alto-falante da chamada, Cmd+Option+F cria crossfade de propósito, nomes novos: Área de Trabalho e Biblioteca, e o clique no nome da track não abre mais o menu Mixer.</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.27/Dreams-0.66.27.zip" length="30631405" type="application/octet-stream" sparkle:edSignature="n4reKrAASzB/L4zbf0kTdM+ws0rXz7Hz4v1X70C+s44/zIp4BgKOIMgM/i3MXNU4jfHOTViEwttsq836ilbfAg=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.26</title>
       <pubDate>Wed, 07 Oct 2026 11:51:59 +0000</pubDate>
       <sparkle:version>0.66.26.9999</sparkle:version>
