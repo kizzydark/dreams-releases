@@ -6,6 +6,15 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.26</title>
+      <pubDate>Wed, 07 Oct 2026 11:51:59 +0000</pubDate>
+      <sparkle:version>0.66.26.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.26</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Rodadas 1 e 2 do Social (chat em grupo, sessão por canal, Modo Jogo) e sincronização de edição por track. Playlist: menu da grade, gravação ao vivo, clips recortam o vizinho ao mover/colar/gravar/esticar bordas (sem crossfade automático), renomear track no próprio cabeçalho (Tab/Shift+Tab/Esc), mover várias tracks em bloco.</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.26/Dreams-0.66.26.zip" length="19918945" type="application/octet-stream" sparkle:edSignature="1SGZqfnzyUTSusqtJ6aLLA2DlBP4Bv+ZfVxNntqN64YkmO1S7grzbsnEIomTIAI21+v78VMYMcLnssAvc/dQCw=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.25</title>
       <pubDate>Wed, 07 Oct 2026 09:29:41 +0000</pubDate>
       <sparkle:version>0.66.25.9999</sparkle:version>
