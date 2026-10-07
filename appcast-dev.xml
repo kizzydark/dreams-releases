@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.25</title>
+      <pubDate>Wed, 07 Oct 2026 09:29:41 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.25.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.25</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Menu da Main Lane (grade: tipos, fixa, tercinas, estreitar/alargar, voltar zoom), gravação ao vivo na timeline (forma de onda e notas MIDI) e gravação por cima recorta o clip anterior sem crossfade. Modo MIDI &#x27;Substituir&#x27; agora cria clip novo que recorta o anterior.</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.25/Dreams-0.66.25.zip" length="19610479" type="application/octet-stream" sparkle:edSignature="aitcYRJ1P3BBYEp0L/VC38XhsVUomxwfJOl3QHJM7uezB1GzeJLPGBR5+7NMoJvFTJRfZ08DuHWUmPJG5SASBA=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.24</title>
       <pubDate>Wed, 07 Oct 2026 07:59:35 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
