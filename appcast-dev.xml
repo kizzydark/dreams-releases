@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.22</title>
+      <pubDate>Wed, 07 Oct 2026 04:50:29 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.22.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.22</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Sem a pergunta &#x27;Como usar este som?&#x27;: a track decide (MIDI → Sampler, áudio → clipe); duplo clique no Browser insere o one-shot na track selecionada</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.22/Dreams-0.66.22.zip" length="19357761" type="application/octet-stream" sparkle:edSignature="reucb6Ke21ZIENBl6+BFAKXUDkIqhByxcrl/VCsBiE2dFOLdJrSwrQi1BCRxy0pvW8pR8PcyT2jnYFOPcohjBQ=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.21</title>
       <pubDate>Wed, 07 Oct 2026 04:26:07 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
