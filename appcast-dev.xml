@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.24</title>
+      <pubDate>Wed, 07 Oct 2026 07:59:35 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.24.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.24</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Piano Roll: visual novo (3 linhas, cifras por compasso, teclado, notas com velocity visível, faixa inferior em pílulas, rodapé); instância de teste não se atualiza sozinha</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.24/Dreams-0.66.24.zip" length="19568068" type="application/octet-stream" sparkle:edSignature="YiJR1ZCK5bcljVyyY4LpQJdsPqH+m8/C4fKJ6ohjeSyfmlUGjgNpcSvbKdPtvNM52FIozqnIku8G0MJzD904Cw=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.23</title>
       <pubDate>Wed, 07 Oct 2026 07:08:27 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
