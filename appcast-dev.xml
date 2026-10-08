@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.29</title>
+      <pubDate>Thu, 08 Oct 2026 03:57:36 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.29.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.29</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Corrige um travamento (fechar) ao sair de uma chamada de voz/vídeo; seleção sem contorno nas notas, clips e passos (cores por tema); Arrastar para Preencher no Step Sequencer (modo travado no 1º clique, régua com Shift, Esc cancela); Piano Roll com o visual final (nomes nas teclas, C4 no centro, controles novos).</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.29/Dreams-0.66.29.zip" length="30832890" type="application/octet-stream" sparkle:edSignature="HVVffBLGI0HA/Q77Ypz/V8bHKoUhWbNwnCIUdLDTj1bROQclY4FhnQOObeGGjW4LooD+oUVT488l5sAmEI4sAg=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.28</title>
       <pubDate>Thu, 08 Oct 2026 01:47:22 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Sons parecidos: botão ao lado de Grade mostra os arquivos mais parecidos com o som selecionado (⌥⇧⌘S).</li><li>Plugins adicionados pela aba Devices abrem a UI do fabricante, todos (não só o primeiro).</li><li>Botão direito na track do mixer: Renomear, Freeze, Bounce, Recortar, Copiar, Colar, Duplicar, Group, Insert Audio/Midi/Return e take lanes.</li><li>Reverb e Saturator calibrados.</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.5/Dreams-0.66.5.zip" length="18497985" type="application/octet-stream" sparkle:edSignature="KVh38IBXac2zYBTjph+I+qoPg8MpPRO7IkYTW5roHmbZ1P2ZRGqQzau0N8DigahxxjW9beTCymYxOcmrTWwtAg=="/>
-    </item>
-    <item>
-      <title>Claude: Workflow macOS: build + feed de atualização (Sparkle)</title>
-      <pubDate>Tue, 06 Oct 2026 06:53:51 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.4.1</sparkle:version>
-      <sparkle:shortVersionString>0.66.4 dev 1</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Workflow macOS: build + feed de atualização (Sparkle) (Claude)</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-1/Dreams-0.66.4-dev-1.zip" length="9412742" type="application/octet-stream" sparkle:edSignature="P52RWPh8slp0E4B5ewPrtOn4KiA69f7gmwxns9MMZY85Wc2EpQNFBQFtv8Py5sHl3lIsdoA1uKWfpmoy913OBQ=="/>
     </item>
   </channel>
 </rss>
