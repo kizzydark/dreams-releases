@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.39</title>
+      <pubDate>Thu, 08 Oct 2026 13:28:02 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.39.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.39</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Afinação nota a nota (menu do clipe de áudio).</li><li>Pista de vídeo: importar, janela sincronizada, exportar vídeo com o áudio.</li><li>Sampler com várias amostras (zonas, velocity, round-robin).</li><li>Biblioteca de fábrica: kits e loops por gênero.</li><li>Nuvem e colaboração do Social (Arquivo &gt; Nuvem; presença na track).</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.39/Dreams-0.66.39.zip" length="32171790" type="application/octet-stream" sparkle:edSignature="N823uZQQkVQ+Tevnb71eHlFiEp2cXWYtGIWlkCkrX2tHCFt/Z0q8XA9dG0eNb1CXasLoKrWOcOGiYV1eDu9BCA=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.38</title>
       <pubDate>Thu, 08 Oct 2026 12:29:08 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Tom/Escala globais na barra superior + Love Tune; Piano Roll e Mixer sempre na área principal; BPM sem clique-muda-valor; Tap centralizado; correção do crash no login do Social; servidor Online padrão</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.15/Dreams-0.66.15.zip" length="19256422" type="application/octet-stream" sparkle:edSignature="/fsTJMVioQccmbsZiU1zTuzLkiPcDvhWTmS6K3GMYH2Ov+67xTD/Raw82hKN9OBj9TZGFqjxaF+tYQM1LsQmAQ=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.14</title>
-      <pubDate>Tue, 06 Oct 2026 13:04:48 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.14.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.14</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Social: aba SESSÃO (transporte sincronizado, projeto compartilhado, gravação remota), busca, papéis de sala, editar/apagar mensagens, denúncia</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.14/Dreams-0.66.14.zip" length="19231589" type="application/octet-stream" sparkle:edSignature="j/KVReF7Ln/W0qxVF8D74jUnPaovo9BwC4ttTaL11kUaFCeU+yoEJAltJNmR2Zi54gJqcgLmAxs+stfFK2U5DA=="/>
     </item>
   </channel>
 </rss>
