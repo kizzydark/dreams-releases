@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.31</title>
+      <pubDate>Thu, 08 Oct 2026 05:28:33 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.31.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.31</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Piano Roll: Menu Master (▼) em português com todas as funções organizadas (Editar, Ferramentas, Carimbos, Inversões, Velocity, Escala, Exibir, Encaixe, Seleção, Zoom); o botão Escala abre o painel TOM | ESCALA em 2 colunas; textos de menu traduzidos.</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.31/Dreams-0.66.31.zip" length="30920216" type="application/octet-stream" sparkle:edSignature="f80AuMQiP7yd1fJENZQ9Oi6U38CsXDvXMB81xYYbbTVA4vn6zpZweIX/qOYJy7XGIQKb60LkH0dtwuy5STEeDA=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.30</title>
       <pubDate>Thu, 08 Oct 2026 04:58:57 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Seletor de buffer (canto superior direito): só 16, 32, 64, 128, 256, 512, 1024 e 2048 (fora da lista usa 128).</li><li>Menu do botão direito na Track Title Bar da Playlist: Renomear, Congelar Faixa, Consolidar Faixa no Local, Recortar, Copiar, Colar, Duplicar, Agrupar Faixas, Inserir Áudio/MIDI/Faixa de Retorno e faixas gravadas.</li><li>Sends (A, B, C...) acompanham a altura da track.</li><li>Plugins nativos do Dreams organizados por categoria (Mixagem, Espaço/Tempo, Modulação, Filtros, Pitch/Voz, Imagem Estéreo, Instrumentos) no menu + e no Browser.</li><li>Botão UI dos plugins: abre e fecha (toggle).</li><li>Arrastar sons para o Finder, e do canal do Channel Rack ou do Sampler para onde quiser; ⌥ ao soltar copia para a pasta do projeto.</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.7/Dreams-0.66.7.zip" length="18749391" type="application/octet-stream" sparkle:edSignature="iSIW7RS+3RvpglVDHhG0wVu2uJCz6q0vZILR6T43faWfKio0p278aweK3HCeKA1eAXKSqOpqn2Eh8oou2CB+CQ=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.6</title>
-      <pubDate>Tue, 06 Oct 2026 09:24:41 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.6.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.6</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Dreams Social (Messenger): balão na barra, amigos, presença e mensagens diretas dentro do Dreams (⌘⇧U). Servidor de desenvolvimento em server/.</li><li>Textos de erro dos presets com acentos corretos.</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.6/Dreams-0.66.6.zip" length="18725403" type="application/octet-stream" sparkle:edSignature="id/PB7sGFw4XHsIjblaOpBoKf0TCIhrZwuKMnIH4BmPHT4e49BH/2f3SLowzTsr7ruaWwYQHv+z+kh2BUv0iDg=="/>
     </item>
   </channel>
 </rss>
