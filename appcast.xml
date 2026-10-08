@@ -6,6 +6,15 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.33</title>
+      <pubDate>Thu, 08 Oct 2026 07:32:09 +0000</pubDate>
+      <sparkle:version>0.66.33.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.33</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Social: painel fixado mais polido (cabeçalho, bolhas, lista de amigos própria).</li><li>Motor: leitura do ganho do monitor e do Master para o aviso do som do Dreams.</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.33/Dreams-0.66.33.zip" length="31073119" type="application/octet-stream" sparkle:edSignature="nQop2axnEeWh6JD1XhwbTDDbPEIUiB/7XQiZCMJb1u1grIFAqKYj4eTaGcWp455k3yPP4aEHMr1vj59Ct3PiBg=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.32</title>
       <pubDate>Thu, 08 Oct 2026 06:57:23 +0000</pubDate>
       <sparkle:version>0.66.32.9999</sparkle:version>
@@ -220,15 +229,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Social: salas (Geral e criadas), áudio no chat com cartão tocável/arrastável, perfil, abas clicáveis</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.9/Dreams-0.66.9.zip" length="18870805" type="application/octet-stream" sparkle:edSignature="KBZxhw3aG2bv+PnALqozRBsw7YDx6dThDqpqEO8T/DsFLIGUrfiggel8zWeuIRK3+/FDkGaw+RT5QpDXgtwsBw=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.8</title>
-      <pubDate>Tue, 06 Oct 2026 10:09:57 +0000</pubDate>
-      <sparkle:version>0.66.8.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.8</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Zoom vertical da onda por faixa, conta-gotas &#x27;Escolher elemento&#x27; e abas de grupo no painel de tema</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.8/Dreams-0.66.8.zip" length="18776352" type="application/octet-stream" sparkle:edSignature="9cOQFlj2lQIVoS/ZrvqNifGZMID0ylMwZURV3ULjxXfhQVZ2IjZBSiekPsE5C0HP9vzau4QEypSXBDE7u0JIAA=="/>
     </item>
   </channel>
 </rss>
