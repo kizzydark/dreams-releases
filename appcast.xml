@@ -6,6 +6,15 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.37</title>
+      <pubDate>Thu, 08 Oct 2026 11:09:47 +0000</pubDate>
+      <sparkle:version>0.66.37.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.37</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Punch in/out: região, pré-roll, pós-roll, para sozinho e grava MIDI só dentro.</li><li>Comping: achatar comp e emendas com fade de 5 ms.</li><li>Macros e moduladores (LFO, aleatório, seguidor) em qualquer knob.</li><li>Baterista: gerar levadas por estilo, complexidade, swing e viradas (6 estilos, com Samba).</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.37/Dreams-0.66.37.zip" length="31525117" type="application/octet-stream" sparkle:edSignature="kXSxmkUtlBBE6/cHlCGcADyF51SdmcNyBpnUV+OD8JkVr9JNkMdOsG82JRXX3XNK7mvhx+e3ZG1La++z6IIJDw=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.36</title>
       <pubDate>Thu, 08 Oct 2026 10:29:29 +0000</pubDate>
       <sparkle:version>0.66.36.9999</sparkle:version>
@@ -220,15 +229,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Metrônomo: painel de opções fica aberto entre as escolhas, o botão abre/fecha e o volume aceita digitação (duplo clique, Enter/Esc)</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.13/Dreams-0.66.13.zip" length="19192155" type="application/octet-stream" sparkle:edSignature="kd8/tz8crOmTEvOneQ22je1KWBg6r2DyWCFawymmAzux7/rFN+8NEYGuBOdcxyAq0Z5IYg37Z4mlBgO58PiVAg=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.12</title>
-      <pubDate>Tue, 06 Oct 2026 12:16:59 +0000</pubDate>
-      <sparkle:version>0.66.12.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.12</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Piano Roll e Mixer podem ocupar a área principal (a mesma da Playlist); servidor Social com sessões</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.12/Dreams-0.66.12.zip" length="19043272" type="application/octet-stream" sparkle:edSignature="BacTxsXCDr3efJLihb0/mf7bUU/Zfz7Jx78+uiaBl+5a0yMC6ac6AvR5QFnUVghcKtafuK0HDaOfMjTVALMrBw=="/>
     </item>
   </channel>
 </rss>
