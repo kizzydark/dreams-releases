@@ -6,6 +6,15 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.28</title>
+      <pubDate>Thu, 08 Oct 2026 01:47:22 +0000</pubDate>
+      <sparkle:version>0.66.28.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.28</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Sons parecidos agora é uma lista fixa (a origem só muda ao desmarcar ou em Buscar Sons Parecidos com Este), clique simples nos knobs de Volume e Pan abre a digitação do valor, menus com o visual do Metrônomo, Criar crossfade (⌘⌥F) também nos menus, renderização da sua track para o Modo Jogo, Gravar a chamada, enviar imagem e o som do Dreams nas chamadas.</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.28/Dreams-0.66.28.zip" length="30765317" type="application/octet-stream" sparkle:edSignature="Er3NVXSH+85QMiTg3Fe8YyQmfLcfKEpEug9SyHNvQbl3wg/ZGSyvVE+xqTx692hcg6Pt/Vko1uRtck1o4nVPDA=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.27</title>
       <pubDate>Wed, 07 Oct 2026 13:12:35 +0000</pubDate>
       <sparkle:version>0.66.27.9999</sparkle:version>
@@ -220,15 +229,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Delay Dreams: instância nova começa no modo Clássico (o Tape continua na lista).</li><li>Dreams EQ: ouvir disparo, limpar dinâmica, dividir L/R e M/S.</li><li>Correção do app que fechava ao abrir depois da atualização (0.66.3).</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.4/Dreams-0.66.4.zip" length="18366263" type="application/octet-stream" sparkle:edSignature="dLtCv2ckHd18PSP1JZ0vOwZQYEco9Ofdv5qAqwKtuQMc6C0dX15clIatLiOEm534vDFezyr/O/s6p6Uy1xukCA=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.3</title>
-      <pubDate>Tue, 06 Oct 2026 06:09:50 +0000</pubDate>
-      <sparkle:version>0.66.3.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.3</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Corrige o app que fechava na hora depois da atualização (assinatura incompatível com o Sparkle).</li><li>Canal Dev por padrão; confere o feed a cada 15 s e avisa &#x27;Baixando a atualização...&#x27;.</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.3/Dreams-0.66.3.zip" length="18362456" type="application/octet-stream" sparkle:edSignature="dAtJnW3LQN5fV1BNRyBu0TWrJdPj3ZlWVGsYOXsrWgiiEPT0MC1aTPvQ4054jsVUEi9a0o8G5WKFjF2NJAGSDQ=="/>
     </item>
   </channel>
 </rss>
