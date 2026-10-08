@@ -6,6 +6,15 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.35</title>
+      <pubDate>Thu, 08 Oct 2026 09:55:33 +0000</pubDate>
+      <sparkle:version>0.66.35.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.35</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Seções: marcadores com nome e cor, navegação, exportar um WAV por seção.</li><li>Capturar MIDI: 10 minutos de memória.</li><li>Autosave: versões automáticas (5) e recuperação com nome e hora.</li><li>Notas do projeto e da pista (⌘⇧N).</li><li>Bounce in place (renderiza com cauda e silencia a original).</li><li>Groove: aplicar e extrair (Piano Roll &gt; Ferramentas).</li><li>Step Sequencer: pitch, probabilidade, repetição e condição por passo (⌥+clique).</li><li>Normalizar por loudness (LUFS).</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.35/Dreams-0.66.35.zip" length="31293679" type="application/octet-stream" sparkle:edSignature="+5NNgS//krNOOKbKG1soAEPLRi4IQ/HCWHqoGjt4nvgpVqlozn5IVyDUaMY84f3y/KyA6b15K/MRIRZHr6W3CA=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.34</title>
       <pubDate>Thu, 08 Oct 2026 08:47:35 +0000</pubDate>
       <sparkle:version>0.66.34.9999</sparkle:version>
@@ -220,15 +229,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Social: foto de perfil, salas privadas com convite e remoção, bloqueio, silenciar, apelido local, histórico em disco, anexos que expiram</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.11/Dreams-0.66.11.zip" length="19025394" type="application/octet-stream" sparkle:edSignature="C+R3X9ib3xTkx7Aw4oWcpbFxWRamody7vm5wzXB/aku/I0Hbh1DAyAWk8e6cG17bOdXWe+wrq8dIqnQ9srRgCg=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.10</title>
-      <pubDate>Tue, 06 Oct 2026 11:26:09 +0000</pubDate>
-      <sparkle:version>0.66.10.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.10</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Dreams &gt; Configurações: central das preferências globais por categorias; preferências saem dos menus superiores</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.10/Dreams-0.66.10.zip" length="18953255" type="application/octet-stream" sparkle:edSignature="fKzV1mo/SDn9JJDXau3tUqUgb0xzFtgtPI4yLuXxhFSFL4R28bbbxbwMq/zC6RgK7uG1ERm4pLY6mDz2QOhxBg=="/>
     </item>
   </channel>
 </rss>
