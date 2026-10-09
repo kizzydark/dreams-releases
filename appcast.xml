@@ -6,6 +6,15 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.44</title>
+      <pubDate>Fri, 09 Oct 2026 12:31:35 +0000</pubDate>
+      <sparkle:version>0.66.44.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.44</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>MPE completo: bend até ±48 semitons, pressão e slide por nota no Dreams Synth e no Sampler.</li><li>Partitura: barras de ligação, editar notas (↑/↓, Delete) e PDF para imprimir.</li><li>Vídeo: timecode SMPTE com fps e Marcar cena.</li><li>Afinação: curva da voz e Estabilizar (tira vibrato e deriva).</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.44/Dreams-0.66.44.zip" length="32395302" type="application/octet-stream" sparkle:edSignature="MBWKUJOH0/d/2E+FGgGni4ec1USvN0GXyvaVNyGRv8WM8TDcEmbCxkRXsHCkXpzDIqRoez0d7j2exLqkGidrCA=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.43</title>
       <pubDate>Fri, 09 Oct 2026 11:57:44 +0000</pubDate>
       <sparkle:version>0.66.43.9999</sparkle:version>
@@ -220,15 +229,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Reverse de clip de áudio pela tecla R (só com clip de áudio selecionado e sem campo de texto/piano), com a forma de onda espelhada na hora</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.20/Dreams-0.66.20.zip" length="19379996" type="application/octet-stream" sparkle:edSignature="7PLJEpPZi+fk2dbgJ4oDZHSGShC8gOI4AWyQW4eiFlkDWz5Ha/ATDvYLPoOaj5FvkjelxeqOCeEGVaCr8BOQDA=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.19</title>
-      <pubDate>Wed, 07 Oct 2026 03:17:47 +0000</pubDate>
-      <sparkle:version>0.66.19.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.19</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Browser: o layout (compacto ou duas colunas) agora persiste entre sessões; o estado Clean não o desfaz mais</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.19/Dreams-0.66.19.zip" length="19369183" type="application/octet-stream" sparkle:edSignature="Q5Pgq/3pGD47pDLDcvqwtzs3YOn0AJBEpTpmKi46QJ2NjbTqA1pg4XjIkrwQmwJCC7juHvuLDXcGxKf2OELyAw=="/>
     </item>
   </channel>
 </rss>
