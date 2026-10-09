@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.41</title>
+      <pubDate>Fri, 09 Oct 2026 05:58:30 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.41.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.41</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Barra superior reorganizada em 4 zonas: tempo e tom | transporte e relógio | monitoração e atalhos | sistema e social.</li><li>Configurações saiu do meio do transporte; botão Loop e alternador Sessão na barra.</li><li>BPM: 1 clique digita, arrastar muda, duplo clique volta a 120. Nome do projeto: clique para renomear.</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.41/Dreams-0.66.41.zip" length="32211239" type="application/octet-stream" sparkle:edSignature="7jxS25a+RPFmz9y+HxWr7Q1sciiOuO31qbu/9zkyYlNnK8PBrJxB9aR06LNU74Tg+IGPxBYpoWYRIkum2SJJCQ=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.40</title>
       <pubDate>Fri, 09 Oct 2026 05:40:06 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Track Title Bar redesenhada (cor, número, ícone, S/M, knobs de Pan e Volume, sends em letras); Social Fase A: conta, esqueci a senha, entrada automática</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.17/Dreams-0.66.17.zip" length="19351990" type="application/octet-stream" sparkle:edSignature="Ne/CIUEwtM5SmRu6WndLFLk0IfEhyUCMzFsfYWuKAhXH6MYegaZxDbKW+F2MOu/dj4cHP5WdCOiAukWe3CyhDw=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.16</title>
-      <pubDate>Wed, 07 Oct 2026 00:50:03 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.16.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.16</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Popover unificado de Tom e Escala (barra superior) com Love Tune automático; Social: Esqueci a senha e Lembrar de mim</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.16/Dreams-0.66.16.zip" length="19294054" type="application/octet-stream" sparkle:edSignature="va8Ml4QHLqpGIS1roevlX1qS+ZdvIr1hPFxTB5AMdXNqr3QwPirit9c3EPiSD0qJh5ga6dBwuAl59Bb5unGSBA=="/>
     </item>
   </channel>
 </rss>
