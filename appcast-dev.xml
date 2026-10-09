@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.45</title>
+      <pubDate>Fri, 09 Oct 2026 12:56:58 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.45.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.45</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Partitura: tercinas com o 3 e duas vozes na mesma pauta. Afinação nota a nota: puxe a borda direita da nota para mudar a duração. Bend MPE e gravado agora sobe liso, sem degraus.</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.45/Dreams-0.66.45.zip" length="32418901" type="application/octet-stream" sparkle:edSignature="9Wqv7JDMdZpC9rExGkC8TpgzHxJU7djmc893BiqvLjDnayXRdGe4ohBm76c1DtU/x+aZE859eD/1h6rIGFB5DQ=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.44</title>
       <pubDate>Fri, 09 Oct 2026 12:31:35 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Reverse (tecla R) de clip recortado: inverte só a janela visível, sem sobras de fora; onda e som coincidem</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.21/Dreams-0.66.21.zip" length="19388847" type="application/octet-stream" sparkle:edSignature="Xk46pYitgctT7VnlZKhVoZfOaI+LvYnajQ2S6o9XG+4/U7MgckKqpgN/NSm4N1PXVrmfPn6TiCD1r18bExKNCg=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.20</title>
-      <pubDate>Wed, 07 Oct 2026 03:52:21 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.20.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.20</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Reverse de clip de áudio pela tecla R (só com clip de áudio selecionado e sem campo de texto/piano), com a forma de onda espelhada na hora</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.20/Dreams-0.66.20.zip" length="19379996" type="application/octet-stream" sparkle:edSignature="7PLJEpPZi+fk2dbgJ4oDZHSGShC8gOI4AWyQW4eiFlkDWz5Ha/ATDvYLPoOaj5FvkjelxeqOCeEGVaCr8BOQDA=="/>
     </item>
   </channel>
 </rss>
