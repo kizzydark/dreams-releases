@@ -6,6 +6,15 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.50</title>
+      <pubDate>Sat, 10 Oct 2026 09:59:54 +0000</pubDate>
+      <sparkle:version>0.66.50.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.50</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Barra inferior em dois grupos. Stop: 1x para onde está, 2x volta ao compasso 1. Relógio só com Compassos e Tempo. Detectar tom e BPM ancora no 1º bumbo e o Analisar de novo funciona. Automação: mexa num controle na janela de qualquer plugin e use ⌥A (ou o menu da track) para criar a curva; os envios A/B do cabeçalho ganharam Criar automação de retorno. Knob de volume vermelho quando a track está armada. Presets dos efeitos Dreams trocam sem perguntar. Biblioteca mostra arquivos MIDI (arraste para a Área de Trabalho ou o Piano Roll). A Área de Trabalho não tem mais o X.</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.50/Dreams-0.66.50.zip" length="32582235" type="application/octet-stream" sparkle:edSignature="uTEJd4mZBmjBUZHwhCteMFS0ceeJI47d9d3mmpRkbfq+ZhKHxMEw8WiTMCOpvr2iTny46OcL4ybD0yunJrvlCQ=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.48</title>
       <pubDate>Sat, 10 Oct 2026 07:18:30 +0000</pubDate>
       <sparkle:version>0.66.48.9999</sparkle:version>
@@ -220,15 +229,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Menu da Main Lane (grade: tipos, fixa, tercinas, estreitar/alargar, voltar zoom), gravação ao vivo na timeline (forma de onda e notas MIDI) e gravação por cima recorta o clip anterior sem crossfade. Modo MIDI &#x27;Substituir&#x27; agora cria clip novo que recorta o anterior.</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.25/Dreams-0.66.25.zip" length="19610479" type="application/octet-stream" sparkle:edSignature="aitcYRJ1P3BBYEp0L/VC38XhsVUomxwfJOl3QHJM7uezB1GzeJLPGBR5+7NMoJvFTJRfZ08DuHWUmPJG5SASBA=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.24</title>
-      <pubDate>Wed, 07 Oct 2026 07:59:35 +0000</pubDate>
-      <sparkle:version>0.66.24.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.24</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Piano Roll: visual novo (3 linhas, cifras por compasso, teclado, notas com velocity visível, faixa inferior em pílulas, rodapé); instância de teste não se atualiza sozinha</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.24/Dreams-0.66.24.zip" length="19568068" type="application/octet-stream" sparkle:edSignature="YiJR1ZCK5bcljVyyY4LpQJdsPqH+m8/C4fKJ6ohjeSyfmlUGjgNpcSvbKdPtvNM52FIozqnIku8G0MJzD904Cw=="/>
     </item>
   </channel>
 </rss>
