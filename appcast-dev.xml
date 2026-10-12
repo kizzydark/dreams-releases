@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.63</title>
+      <pubDate>Mon, 12 Oct 2026 14:09:56 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.63.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.63</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Piano Roll: seleção de tempo com ⌘D, L = laço, Probabilidade e Condição na nota. Sidechain: chip SC na pista, Duck rápido, Escutar, Pré-fader e arrastar para ligar. Atalhos: estilos FL/Ableton/Logic, exportar/importar, folha de atalhos (⌘/), tamanho do texto e melhor contraste. Stems com IA (Demucs 6 stems) prontos para instalar. Manual em Ajuda &gt; Manual do Dreams. Converter áudio em MIDI agora pega acordes.</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.63/Dreams-0.66.63.zip" length="35743741" type="application/octet-stream" sparkle:edSignature="XIvUrD7Z7vzdI5ccReIBf4jhCgMy9EtDn17hbFsyO95Z9VsfoaNx0nMrU8YbLlPhlI2x+W6V8Xsof9uwTYOYCA=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.57</title>
       <pubDate>Mon, 12 Oct 2026 11:45:54 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Sons parecidos agora é uma lista fixa (a origem só muda ao desmarcar ou em Buscar Sons Parecidos com Este), clique simples nos knobs de Volume e Pan abre a digitação do valor, menus com o visual do Metrônomo, Criar crossfade (⌘⌥F) também nos menus, renderização da sua track para o Modo Jogo, Gravar a chamada, enviar imagem e o som do Dreams nas chamadas.</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.28/Dreams-0.66.28.zip" length="30765317" type="application/octet-stream" sparkle:edSignature="Er3NVXSH+85QMiTg3Fe8YyQmfLcfKEpEug9SyHNvQbl3wg/ZGSyvVE+xqTx692hcg6Pt/Vko1uRtck1o4nVPDA=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.27</title>
-      <pubDate>Wed, 07 Oct 2026 13:12:35 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.27.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.27</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Chamadas com voz e vídeo (LiveKit; só macOS 12.3+, abaixo disso o app abre normalmente com aviso), Rodada 3 do Social, menus de microfone/alto-falante da chamada, Cmd+Option+F cria crossfade de propósito, nomes novos: Área de Trabalho e Biblioteca, e o clique no nome da track não abre mais o menu Mixer.</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.27/Dreams-0.66.27.zip" length="30631405" type="application/octet-stream" sparkle:edSignature="n4reKrAASzB/L4zbf0kTdM+ws0rXz7Hz4v1X70C+s44/zIp4BgKOIMgM/i3MXNU4jfHOTViEwttsq836ilbfAg=="/>
     </item>
   </channel>
 </rss>
