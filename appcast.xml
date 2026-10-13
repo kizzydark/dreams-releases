@@ -6,6 +6,15 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.70</title>
+      <pubDate>Tue, 13 Oct 2026 06:28:48 +0000</pubDate>
+      <sparkle:version>0.66.70.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.70</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Mixer novo: strips de mesa com pan em anel, sends A·REV/B·DLY em anel, medidor estéreo de LEDs com peak-hold, fader de mesa à direita e valor em dB; M azul, S amarelo, R redondo.</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.70/Dreams-0.66.70.zip" length="35859124" type="application/octet-stream" sparkle:edSignature="ROi2EfLcE78EKWl7UxYgOonk/0rLgnhZ0xh2CazQtsvoza1tXUCve42bQ4HQ9S98kUK72PBzQvEuIODs4OrCDg=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.69</title>
       <pubDate>Tue, 13 Oct 2026 05:04:50 +0000</pubDate>
       <sparkle:version>0.66.69.9999</sparkle:version>
@@ -220,15 +229,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Pincel (B) para preencher notas no Piano Roll e carimbar cópias do clip na Área de Trabalho (modo travado, régua com Shift, Esc cancela, uma ação de desfazer); ⌘D duplica no Piano Roll (o ⌘B antigo saiu); dica do botão Teclas corrigida (P).</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.30/Dreams-0.66.30.zip" length="30874410" type="application/octet-stream" sparkle:edSignature="R06Vhpo2kp1YH4xWaN+TdwiaRhpASMOlO2+WpN/wPJLwDWZm865kRPcrKyi/nowMIKcYNIFxddr5cprlxnQxBQ=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.29</title>
-      <pubDate>Thu, 08 Oct 2026 03:57:36 +0000</pubDate>
-      <sparkle:version>0.66.29.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.29</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Corrige um travamento (fechar) ao sair de uma chamada de voz/vídeo; seleção sem contorno nas notas, clips e passos (cores por tema); Arrastar para Preencher no Step Sequencer (modo travado no 1º clique, régua com Shift, Esc cancela); Piano Roll com o visual final (nomes nas teclas, C4 no centro, controles novos).</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.29/Dreams-0.66.29.zip" length="30832890" type="application/octet-stream" sparkle:edSignature="HVVffBLGI0HA/Q77Ypz/V8bHKoUhWbNwnCIUdLDTj1bROQclY4FhnQOObeGGjW4LooD+oUVT488l5sAmEI4sAg=="/>
     </item>
   </channel>
 </rss>
