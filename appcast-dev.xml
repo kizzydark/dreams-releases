@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.91</title>
+      <pubDate>Sat, 17 Oct 2026 01:07:07 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.91.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.91</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Channel Rack no estilo FL Studio: pintar steps arrastando (direito apaga, um ⌘Z por gesto), playhead preso ao áudio, steps fantasmas até 64, LED neon na cor do canal, régua, solo pela bolinha, seleção e reordenar canais, knobs FL, menu do canal novo, ⇧⌘←/→, editor de steps (E), swing e prévia do piano roll.</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.91/Dreams-0.66.91.zip" length="36282475" type="application/octet-stream" sparkle:edSignature="iZlmhYUbzWlkut9CO9wLB+fw3nCgW0UUX4Y0QnSwp21KPMxMf9BMV5iFvULQyQ3rRQZsXUVpzs7YVPbxIUncAw=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.85</title>
       <pubDate>Wed, 14 Oct 2026 22:53:01 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Afinação nota a nota (menu do clipe de áudio).</li><li>Pista de vídeo: importar, janela sincronizada, exportar vídeo com o áudio.</li><li>Sampler com várias amostras (zonas, velocity, round-robin).</li><li>Biblioteca de fábrica: kits e loops por gênero.</li><li>Nuvem e colaboração do Social (Arquivo &gt; Nuvem; presença na track).</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.39/Dreams-0.66.39.zip" length="32171790" type="application/octet-stream" sparkle:edSignature="N823uZQQkVQ+Tevnb71eHlFiEp2cXWYtGIWlkCkrX2tHCFt/Z0q8XA9dG0eNb1CXasLoKrWOcOGiYV1eDu9BCA=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.38</title>
-      <pubDate>Thu, 08 Oct 2026 12:29:08 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.38.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.38</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Áudio → MIDI (melodia), fatiar loop para o Sampler.</li><li>Partitura do padrão (exporta PNG).</li><li>MPE: bend, pressão e slide por nota na gravação.</li><li>Cadeias de master por gênero e export com loudness alvo (LUFS).</li><li>Efeitos novos: Vocoder, Granular, Convolução e Multibanda.</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.38/Dreams-0.66.38.zip" length="31763160" type="application/octet-stream" sparkle:edSignature="0LO9GncDYWvxwlVvNbZ7dk6BN1dCn2lQA94Uzk5qQZrzFasxo8WEuecyOeNmTdCkXA06RaO7R9S0ZpbZ2egKCA=="/>
     </item>
   </channel>
 </rss>
