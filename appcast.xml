@@ -6,6 +6,15 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.92</title>
+      <pubDate>Sat, 17 Oct 2026 01:47:29 +0000</pubDate>
+      <sparkle:version>0.66.92.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.92</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Correção: a forma de onda do Sampler no painel Devices passava por cima do título e dos knobs com samples muito altos. Agora ela fica dentro da faixa e se ajusta ao pico do arquivo.</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.92/Dreams-0.66.92.zip" length="36284954" type="application/octet-stream" sparkle:edSignature="yDgc4sLFMEz2nKzQ4kG5QPWfwDPLRby9c/E4AwfYX0Mu9llrtCyxqT4lxXoZukGP6JWe45GceVFZs92sXehXBg=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.91</title>
       <pubDate>Sat, 17 Oct 2026 01:07:07 +0000</pubDate>
       <sparkle:version>0.66.91.9999</sparkle:version>
@@ -220,15 +229,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Separar em stems (voz, bateria, baixo, resto) no menu do clipe de áudio: local, sem IA.</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.40/Dreams-0.66.40.zip" length="32210014" type="application/octet-stream" sparkle:edSignature="2UhTHsWUdhFU4HCREV+YMTmOFFIsKlRTUzRUd5cQbX1UWWGl0NEEXW+uifgbrHbM2qszLE37+dOPK/cdIUxFBA=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.39</title>
-      <pubDate>Thu, 08 Oct 2026 13:28:02 +0000</pubDate>
-      <sparkle:version>0.66.39.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.39</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Afinação nota a nota (menu do clipe de áudio).</li><li>Pista de vídeo: importar, janela sincronizada, exportar vídeo com o áudio.</li><li>Sampler com várias amostras (zonas, velocity, round-robin).</li><li>Biblioteca de fábrica: kits e loops por gênero.</li><li>Nuvem e colaboração do Social (Arquivo &gt; Nuvem; presença na track).</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.39/Dreams-0.66.39.zip" length="32171790" type="application/octet-stream" sparkle:edSignature="N823uZQQkVQ+Tevnb71eHlFiEp2cXWYtGIWlkCkrX2tHCFt/Z0q8XA9dG0eNb1CXasLoKrWOcOGiYV1eDu9BCA=="/>
     </item>
   </channel>
 </rss>
