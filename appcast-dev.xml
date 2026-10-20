@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.102</title>
+      <pubDate>Tue, 20 Oct 2026 20:18:41 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.102.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.102</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Channel Rack e clips MIDI: botão ↻ liga o loop do clip (clips novos esticam sem repetir), botão 🎧 liga/desliga o som dos steps, o clip MIDI estica e encolhe junto com os steps, fundo dos steps alternando a cada 4 e copiar/colar o desenho de um canal com ⌘C/⌘V.</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.102/Dreams-0.66.102.zip" length="36760917" type="application/octet-stream" sparkle:edSignature="LewPkNOcE3vd+tjpV5qcOH19y7Lueo3FVhGRXV8J1IDdkx3Ox48r9p/GhDeATasAs2f712uOxm/hcuHnMPchBg=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.101</title>
       <pubDate>Mon, 19 Oct 2026 00:10:06 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Partitura: tercinas com o 3 e duas vozes na mesma pauta. Afinação nota a nota: puxe a borda direita da nota para mudar a duração. Bend MPE e gravado agora sobe liso, sem degraus.</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.45/Dreams-0.66.45.zip" length="32418901" type="application/octet-stream" sparkle:edSignature="9Wqv7JDMdZpC9rExGkC8TpgzHxJU7djmc893BiqvLjDnayXRdGe4ohBm76c1DtU/x+aZE859eD/1h6rIGFB5DQ=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.44</title>
-      <pubDate>Fri, 09 Oct 2026 12:31:35 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.44.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.44</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>MPE completo: bend até ±48 semitons, pressão e slide por nota no Dreams Synth e no Sampler.</li><li>Partitura: barras de ligação, editar notas (↑/↓, Delete) e PDF para imprimir.</li><li>Vídeo: timecode SMPTE com fps e Marcar cena.</li><li>Afinação: curva da voz e Estabilizar (tira vibrato e deriva).</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.44/Dreams-0.66.44.zip" length="32395302" type="application/octet-stream" sparkle:edSignature="MBWKUJOH0/d/2E+FGgGni4ec1USvN0GXyvaVNyGRv8WM8TDcEmbCxkRXsHCkXpzDIqRoez0d7j2exLqkGidrCA=="/>
     </item>
   </channel>
 </rss>
