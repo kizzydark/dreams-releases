@@ -6,6 +6,15 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.104</title>
+      <pubDate>Wed, 21 Oct 2026 21:54:19 +0000</pubDate>
+      <sparkle:version>0.66.104.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.104</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>BPM medido a partir do 1º kick (sem kick, do início); a janela mostra de onde mediu</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.104/Dreams-0.66.104.zip" length="36787812" type="application/octet-stream" sparkle:edSignature="E5A4TbEb8MjQDLftm7Vl1CrCBqHwcEqEaBQdUzqg87rDDDbubD8sp6+KLlU0tYYiwypED7wTZRexj+1ZS8SVBA=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.103</title>
       <pubDate>Wed, 21 Oct 2026 21:07:52 +0000</pubDate>
       <sparkle:version>0.66.103.9999</sparkle:version>
@@ -220,15 +229,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Consolidar no Local (⌘⌥B): renderiza com a cauda dos efeitos (até -72 dBFS) em 32-bit float e põe o áudio na mesma track, com os efeitos impressos em bypass. Gravação por voz/batucada: cante ou faça beatbox e o instrumento da track toca e grava as notas (menu da track &gt; Áudio → MIDI). Interface no ritmo do monitor: medidores, agulha do Piano Roll, Step Sequencer, Sessão, relógio e zoom sincronizados com 60/120/144 Hz.</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.47/Dreams-0.66.47.zip" length="32548473" type="application/octet-stream" sparkle:edSignature="XejKHG8f1VF1qKkn+vKALJbwunCa3O6+9p20LqrGsXqV128IzMk34cB/25+qcv8kXiXdzZpXqIIFJDEzpAs8Dg=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.46</title>
-      <pubDate>Sat, 10 Oct 2026 05:36:09 +0000</pubDate>
-      <sparkle:version>0.66.46.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.46</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Detectar tom e BPM: a janela agora mostra o tom e a escala junto com o BPM (ex.: C Menor • 124 BPM), com tolerância 0,00 (124 sai 124, sem 124,1). Aplicar ao projeto muda o BPM e o Tom/Escala da barra de cima. Também no clique direito de um sample na Biblioteca, com Gravar no sample.</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.46/Dreams-0.66.46.zip" length="32463607" type="application/octet-stream" sparkle:edSignature="q8zZCS2HjrtEFAK2yFhXn906S/bY9hPoASe7tEYwkQrAeK8FdrVjJ5WVfa0mZuRVw+X6hvGLXnLNRiVLjHMsCA=="/>
     </item>
   </channel>
 </rss>
