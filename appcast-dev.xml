@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.103</title>
+      <pubDate>Wed, 21 Oct 2026 21:07:52 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.103.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.103</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Detector de BPM treinado com músicas reais: 12,9% → 76,8% de acerto exato; faixa 50-200 BPM; ½×/2× para a oitava</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.103/Dreams-0.66.103.zip" length="36786180" type="application/octet-stream" sparkle:edSignature="O/dkopmJJQKMWslfubHUlVlilICqPKj2glEaUCc71xuuEwcckyFkJV7epRulzMZI7HoV6NpTKy2q4O62Uk7dAQ=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.102</title>
       <pubDate>Tue, 20 Oct 2026 20:18:41 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Detectar tom e BPM: a janela agora mostra o tom e a escala junto com o BPM (ex.: C Menor • 124 BPM), com tolerância 0,00 (124 sai 124, sem 124,1). Aplicar ao projeto muda o BPM e o Tom/Escala da barra de cima. Também no clique direito de um sample na Biblioteca, com Gravar no sample.</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.46/Dreams-0.66.46.zip" length="32463607" type="application/octet-stream" sparkle:edSignature="q8zZCS2HjrtEFAK2yFhXn906S/bY9hPoASe7tEYwkQrAeK8FdrVjJ5WVfa0mZuRVw+X6hvGLXnLNRiVLjHMsCA=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.45</title>
-      <pubDate>Fri, 09 Oct 2026 12:56:58 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.45.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.45</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Partitura: tercinas com o 3 e duas vozes na mesma pauta. Afinação nota a nota: puxe a borda direita da nota para mudar a duração. Bend MPE e gravado agora sobe liso, sem degraus.</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.45/Dreams-0.66.45.zip" length="32418901" type="application/octet-stream" sparkle:edSignature="9Wqv7JDMdZpC9rExGkC8TpgzHxJU7djmc893BiqvLjDnayXRdGe4ohBm76c1DtU/x+aZE859eD/1h6rIGFB5DQ=="/>
     </item>
   </channel>
 </rss>
