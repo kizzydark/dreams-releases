@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.106</title>
+      <pubDate>Wed, 21 Oct 2026 23:02:23 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.106.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.106</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Ganho (dB) do clip de áudio agora fica na parte de baixo do clip</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.106/Dreams-0.66.106.zip" length="36815740" type="application/octet-stream" sparkle:edSignature="YUFr8+LfTNjWk1Byp54ouRlaC6tqGML0DY3IV5zSw46APvD+h+701S0YokgMCTbR1sDv3/VNhFJbbuiq4c5WCQ=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.105</title>
       <pubDate>Wed, 21 Oct 2026 22:44:36 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Barra inferior em dois grupos. Stop: 1x para onde está, 2x volta ao compasso 1. Relógio só com Compassos e Tempo. Detectar tom e BPM ancora no 1º bumbo e o Analisar de novo funciona. Automação: mexa num controle na janela de qualquer plugin e use ⌥A (ou o menu da track) para criar a curva; os envios A/B do cabeçalho ganharam Criar automação de retorno. Knob de volume vermelho quando a track está armada. Presets dos efeitos Dreams trocam sem perguntar. Biblioteca mostra arquivos MIDI (arraste para a Área de Trabalho ou o Piano Roll). A Área de Trabalho não tem mais o X.</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.50/Dreams-0.66.50.zip" length="32582235" type="application/octet-stream" sparkle:edSignature="uTEJd4mZBmjBUZHwhCteMFS0ceeJI47d9d3mmpRkbfq+ZhKHxMEw8WiTMCOpvr2iTny46OcL4ybD0yunJrvlCQ=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.48</title>
-      <pubDate>Sat, 10 Oct 2026 07:18:30 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.48.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.48</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Mais fluidez em Macs Intel: a cada quadro a interface só redesenha o que mudou (relógio da barra, agulha do Piano Roll sem refazer rodapé e acordes, medidores opacos), a Sessão anda a até 30 quadros/s e um cálculo que rodava 20 vezes por segundo no Step Sequencer saiu do caminho. Corrige um fechamento inesperado ao aplicar Detectar tom e BPM ou a Afinação.</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.48/Dreams-0.66.48.zip" length="32553444" type="application/octet-stream" sparkle:edSignature="9SETwxDH1vAjHlqUfA1O4vNebBMICg9TkC0eZf16Z605P0+Y9UMb4yE1BQYwQuX1Kz+2WTeYXW0/Se8KctSTBg=="/>
     </item>
   </channel>
 </rss>
