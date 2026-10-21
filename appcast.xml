@@ -6,6 +6,15 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.105</title>
+      <pubDate>Wed, 21 Oct 2026 22:44:36 +0000</pubDate>
+      <sparkle:version>0.66.105.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.105</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Fades e crossfade no padrão do Ableton: fade até o outro fade, crossfade arrastando a alça, Delete no crossfade, anti-estalo de 4 ms</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.105/Dreams-0.66.105.zip" length="36815957" type="application/octet-stream" sparkle:edSignature="JODKmh035GUYgfPHtUPU7Op9PKvAK1hTcXvFc6j0rvFM47x7OEd6wAU9k5Ql3YPn2pdyakQp8R3rJ7H3v/4uCw=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.104</title>
       <pubDate>Wed, 21 Oct 2026 21:54:19 +0000</pubDate>
       <sparkle:version>0.66.104.9999</sparkle:version>
@@ -220,15 +229,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Mais fluidez em Macs Intel: a cada quadro a interface só redesenha o que mudou (relógio da barra, agulha do Piano Roll sem refazer rodapé e acordes, medidores opacos), a Sessão anda a até 30 quadros/s e um cálculo que rodava 20 vezes por segundo no Step Sequencer saiu do caminho. Corrige um fechamento inesperado ao aplicar Detectar tom e BPM ou a Afinação.</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.48/Dreams-0.66.48.zip" length="32553444" type="application/octet-stream" sparkle:edSignature="9SETwxDH1vAjHlqUfA1O4vNebBMICg9TkC0eZf16Z605P0+Y9UMb4yE1BQYwQuX1Kz+2WTeYXW0/Se8KctSTBg=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.47</title>
-      <pubDate>Sat, 10 Oct 2026 06:42:08 +0000</pubDate>
-      <sparkle:version>0.66.47.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.47</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Consolidar no Local (⌘⌥B): renderiza com a cauda dos efeitos (até -72 dBFS) em 32-bit float e põe o áudio na mesma track, com os efeitos impressos em bypass. Gravação por voz/batucada: cante ou faça beatbox e o instrumento da track toca e grava as notas (menu da track &gt; Áudio → MIDI). Interface no ritmo do monitor: medidores, agulha do Piano Roll, Step Sequencer, Sessão, relógio e zoom sincronizados com 60/120/144 Hz.</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.47/Dreams-0.66.47.zip" length="32548473" type="application/octet-stream" sparkle:edSignature="XejKHG8f1VF1qKkn+vKALJbwunCa3O6+9p20LqrGsXqV128IzMk34cB/25+qcv8kXiXdzZpXqIIFJDEzpAs8Dg=="/>
     </item>
   </channel>
 </rss>
