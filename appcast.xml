@@ -6,6 +6,15 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.114</title>
+      <pubDate>Thu, 22 Oct 2026 03:23:05 +0000</pubDate>
+      <sparkle:version>0.66.114.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.114</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Mais leve em Macs Intel: a Biblioteca não varre tudo a cada abertura (índice guardado), Mixer e Channel Rack param de trabalhar quando não precisam, efeitos dormem no silêncio. CPU parado com projeto grande caiu de ~100% para ~7-20% de um núcleo</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.114/Dreams-0.66.114.zip" length="37069454" type="application/octet-stream" sparkle:edSignature="omFs8951NqVshScq7u05ccg3nKcHhxQr0Y3GT1s5GkqGigW+r5N9yQGpmIurzD0T2OPAezE1NpapOTk50o7UAg=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.113</title>
       <pubDate>Thu, 22 Oct 2026 02:50:26 +0000</pubDate>
       <sparkle:version>0.66.113.9999</sparkle:version>
@@ -220,15 +229,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Barra superior reorganizada: tempo e Tom à esquerda, transporte e relógio, nome do projeto no centro, social e ferramentas à direita. A pílula do Tom/Escala acompanha o tamanho do texto.</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.75/Dreams-0.66.75.zip" length="35937716" type="application/octet-stream" sparkle:edSignature="PddAryZBkPF+Iy8bXaWP2KhH36WFRTTz0CV4ujSl80i5LnLr7LXMkNz35rjn1HTYSmqlO+EV8K0d8tfdFR17Ag=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.74</title>
-      <pubDate>Wed, 14 Oct 2026 05:47:56 +0000</pubDate>
-      <sparkle:version>0.66.74.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.74</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Mixer: escolha a largura das strips — POUCO (bem fino, para ver muitas pistas), MÉDIO ou MUITO — na barra do Mixer ou com ⌥⌘+ / ⌥⌘−.</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.74/Dreams-0.66.74.zip" length="35931881" type="application/octet-stream" sparkle:edSignature="cGDdOVBHfb6FiO3oPjW5Kza6kaK6H0Wm4enSG4EuO8j5eRnBHwvyUUgCFhzRcPq1MWf8x4absPi0+bclvdldCg=="/>
     </item>
   </channel>
 </rss>
