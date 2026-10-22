@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.113</title>
+      <pubDate>Thu, 22 Oct 2026 02:50:26 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.113.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.113</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Com a automação (A) ligada, clicar dentro da janela de um plugin de terceiros (ex.: FabFilter) abre a lane do parâmetro</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.113/Dreams-0.66.113.zip" length="37101256" type="application/octet-stream" sparkle:edSignature="Z5IaxRVGKC7JCe2FtGSahmAoUiaBX4OjOyJYX2pk0wvs50ba9y7uHFuv7MJ2KNqP8OlQd0lIY+BU5TGCUwI+Dw=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.112</title>
       <pubDate>Thu, 22 Oct 2026 02:42:11 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Mixer: escolha a largura das strips — POUCO (bem fino, para ver muitas pistas), MÉDIO ou MUITO — na barra do Mixer ou com ⌥⌘+ / ⌥⌘−.</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.74/Dreams-0.66.74.zip" length="35931881" type="application/octet-stream" sparkle:edSignature="cGDdOVBHfb6FiO3oPjW5Kza6kaK6H0Wm4enSG4EuO8j5eRnBHwvyUUgCFhzRcPq1MWf8x4absPi0+bclvdldCg=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.73</title>
-      <pubDate>Tue, 13 Oct 2026 08:13:39 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.73.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.73</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Modo Automação (A): clicar em qualquer controle de plugin abre a lane (também com clique rápido); com A ligado, knobs não abrem digitação; com A desligado, 1 clique digita e duplo clique volta ao padrão. Arquivos .mid soltos na Área de Trabalho viram clipe MIDI; one-shot solto na grade vira clipe de áudio; duplo clique num one-shot na Biblioteca cria uma pista com Sampler. Biblioteca: ↑↓ tocam o próximo som, subpastas em vários níveis com &#x27;..&#x27;, forma de onda com contraste.</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.73/Dreams-0.66.73.zip" length="35894708" type="application/octet-stream" sparkle:edSignature="5tQ54MCCf8Dfd5tZegwtGH/06UckSEMIOTpjJkDjHmgZTR8zQ7fQXCWEcau4bfm2RCawa4+MrbDFSBjM9oEcAw=="/>
     </item>
   </channel>
 </rss>
