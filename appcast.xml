@@ -6,6 +6,15 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.111</title>
+      <pubDate>Thu, 22 Oct 2026 02:24:01 +0000</pubDate>
+      <sparkle:version>0.66.111.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.111</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Título do clip maior (18 px), botões da barra de baixo 34×34, cores dos ícones por tema e editáveis em Aparência &gt; Ícones, Delete só apaga a track com clique direto na Track Title Bar</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.111/Dreams-0.66.111.zip" length="37094110" type="application/octet-stream" sparkle:edSignature="kKEoB1tbzVRnZAMrSYcd5VsR+cMLJrXoG4XacpPxC8Xe94Vv6iMrth4jUi599yky4rvNRooXnv+/aHWomvtvAw=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.110</title>
       <pubDate>Thu, 22 Oct 2026 00:56:44 +0000</pubDate>
       <sparkle:version>0.66.110.9999</sparkle:version>
@@ -220,15 +229,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Mixer novo: strips de mesa com pan em anel, sends A·REV/B·DLY em anel, medidor estéreo de LEDs com peak-hold, fader de mesa à direita e valor em dB; M azul, S amarelo, R redondo.</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.70/Dreams-0.66.70.zip" length="35859124" type="application/octet-stream" sparkle:edSignature="ROi2EfLcE78EKWl7UxYgOonk/0rLgnhZ0xh2CazQtsvoza1tXUCve42bQ4HQ9S98kUK72PBzQvEuIODs4OrCDg=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.69</title>
-      <pubDate>Tue, 13 Oct 2026 05:04:50 +0000</pubDate>
-      <sparkle:version>0.66.69.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.69</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Stop volta para onde o play começou (2x: compasso 1). Tom e Escala pode ser desativado. Barra superior mais limpa. Modo Automação (A): clicar num controle de plugin ou no volume/pan/mute/send da pista abre a lane; com A desligado, nada de linhas. Renderizar no lugar direto, sem janela. Biblioteca: → toca/para, ↑↓ não tocam sozinhos, pastas mostram subpastas, áudios e MIDIs. Loop: ⌘L na seleção, pontas em compassos, clique na barra seleciona o trecho. Aparência: Restaurar Aparência Padrão, tema salvo volta inteiro, tema novo jess.</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.69/Dreams-0.66.69.zip" length="35809052" type="application/octet-stream" sparkle:edSignature="s7GlVGzkB3pvrLulYflLs8RKySTSPeh5vV1ee8YNLVo11NMHiuS3hEZvnQ/T47YebX5aGQWoWST/Q4AZx0b8Cg=="/>
     </item>
   </channel>
 </rss>
