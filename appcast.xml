@@ -6,6 +6,15 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.115</title>
+      <pubDate>Wed, 28 Oct 2026 23:51:50 +0000</pubDate>
+      <sparkle:version>0.66.115.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.115</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Biblioteca: → abre a pasta e entra nela, ← recolhe a pasta onde você está. Tracks com 100 px fixos. Love Tune: o coração neon gigante que se mexe como a waveform da voz.</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.115/Dreams-0.66.115.zip" length="37073840" type="application/octet-stream" sparkle:edSignature="bvPFe2Vx9+RmhhXgzwFyBdCBB5EcgXC8sNvRf0njHLIsCIcfx7rnYAVOk9XuUYpUBcfPxc7sjbktTuSsqNkvDw=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.114</title>
       <pubDate>Thu, 22 Oct 2026 03:23:05 +0000</pubDate>
       <sparkle:version>0.66.114.9999</sparkle:version>
@@ -220,15 +229,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Detectar tom e BPM refeito: BPM inteiro cravado em músicas de grade fixa (sem 124,1), tempo variável detectado em gravações humanas (~BPM e marcadores nas batidas), tempo 1 do compasso encontrado e clipe alinhado ao aplicar.</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.76/Dreams-0.66.76.zip" length="35947862" type="application/octet-stream" sparkle:edSignature="gL398UaQhPGQrH/A2nfl1g0mr1s1Z1mBSDacym1WmG6kSjPeou2v3Uitn8C3C5ESrsqdcmJP2APk/oxA3eklCA=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.75</title>
-      <pubDate>Wed, 14 Oct 2026 06:21:02 +0000</pubDate>
-      <sparkle:version>0.66.75.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.75</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Barra superior reorganizada: tempo e Tom à esquerda, transporte e relógio, nome do projeto no centro, social e ferramentas à direita. A pílula do Tom/Escala acompanha o tamanho do texto.</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.75/Dreams-0.66.75.zip" length="35937716" type="application/octet-stream" sparkle:edSignature="PddAryZBkPF+Iy8bXaWP2KhH36WFRTTz0CV4ujSl80i5LnLr7LXMkNz35rjn1HTYSmqlO+EV8K0d8tfdFR17Ag=="/>
     </item>
   </channel>
 </rss>
