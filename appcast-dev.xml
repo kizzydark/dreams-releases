@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Kizzy: Dreams 0.66.118: agrupar canais no Channel Rack e título que abre/fecha o Piano Roll</title>
+      <pubDate>Thu, 29 Oct 2026 01:04:14 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.113.4</sparkle:version>
+      <sparkle:shortVersionString>0.66.113 dev 4</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Dreams 0.66.118: agrupar canais no Channel Rack e título que abre/fecha o Piano Roll (Kizzy)</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-4/Dreams-0.66.113-dev-4.zip" length="14905394" type="application/octet-stream" sparkle:edSignature="IHVEBg1t2wf0ExgBRBKuqM/2myb8cXeio++9B7yO6to/xsRQyA6dZRS6PtzoOihSDiZuB+Gz/LRClz3tco/bCA=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.118</title>
       <pubDate>Thu, 29 Oct 2026 01:03:50 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Correção: a forma de onda do Sampler no painel Devices passava por cima do título e dos knobs com samples muito altos. Agora ela fica dentro da faixa e se ajusta ao pico do arquivo.</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.92/Dreams-0.66.92.zip" length="36284954" type="application/octet-stream" sparkle:edSignature="yDgc4sLFMEz2nKzQ4kG5QPWfwDPLRby9c/E4AwfYX0Mu9llrtCyxqT4lxXoZukGP6JWe45GceVFZs92sXehXBg=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.91</title>
-      <pubDate>Sat, 17 Oct 2026 01:07:07 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.91.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.91</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Channel Rack no estilo FL Studio: pintar steps arrastando (direito apaga, um ⌘Z por gesto), playhead preso ao áudio, steps fantasmas até 64, LED neon na cor do canal, régua, solo pela bolinha, seleção e reordenar canais, knobs FL, menu do canal novo, ⇧⌘←/→, editor de steps (E), swing e prévia do piano roll.</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.91/Dreams-0.66.91.zip" length="36282475" type="application/octet-stream" sparkle:edSignature="iZlmhYUbzWlkut9CO9wLB+fw3nCgW0UUX4Y0QnSwp21KPMxMf9BMV5iFvULQyQ3rRQZsXUVpzs7YVPbxIUncAw=="/>
     </item>
   </channel>
 </rss>
