@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Kizzy: Dreams 0.66.121: grid da Área de Trabalho alterna a cada 2 compassos; voz abre a entrada de áudio sozinha</title>
+      <pubDate>Thu, 29 Oct 2026 23:11:56 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.120.8</sparkle:version>
+      <sparkle:shortVersionString>0.66.120 dev 8</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Dreams 0.66.121: grid da Área de Trabalho alterna a cada 2 compassos; voz abre a entrada de áudio sozinha (Kizzy)</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-8/Dreams-0.66.120-dev-8.zip" length="14936179" type="application/octet-stream" sparkle:edSignature="kFhc0GEvWyp6YEXaCim4Vre2sQsAtp2K7AYuiVP93Zkk9k0qgtPqwZwVBHG8Brv98/INXGn005zaWJPIT91nCA=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.121</title>
       <pubDate>Thu, 29 Oct 2026 23:11:13 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>BPM medido a partir do 1º kick (sem kick, do início); a janela mostra de onde mediu</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.104/Dreams-0.66.104.zip" length="36787812" type="application/octet-stream" sparkle:edSignature="E5A4TbEb8MjQDLftm7Vl1CrCBqHwcEqEaBQdUzqg87rDDDbubD8sp6+KLlU0tYYiwypED7wTZRexj+1ZS8SVBA=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.103</title>
-      <pubDate>Wed, 21 Oct 2026 21:07:52 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.103.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.103</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Detector de BPM treinado com músicas reais: 12,9% → 76,8% de acerto exato; faixa 50-200 BPM; ½×/2× para a oitava</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.103/Dreams-0.66.103.zip" length="36786180" type="application/octet-stream" sparkle:edSignature="O/dkopmJJQKMWslfubHUlVlilICqPKj2glEaUCc71xuuEwcckyFkJV7epRulzMZI7HoV6NpTKy2q4O62Uk7dAQ=="/>
     </item>
   </channel>
 </rss>
