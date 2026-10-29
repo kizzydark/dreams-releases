@@ -6,6 +6,15 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.120</title>
+      <pubDate>Thu, 29 Oct 2026 02:05:00 +0000</pubDate>
+      <sparkle:version>0.66.120.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.120</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Channel Rack mostra os grupos (recolher, mute, solo, volume, arrastar canais para dentro e para fora). O número do grupo agora é só indicador. A partir desta versão o macOS lembra a permissão do microfone entre atualizações.</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.120/Dreams-0.66.120.zip" length="37270314" type="application/octet-stream" sparkle:edSignature="9DTydMhhCQOMIvVoZ4sZZ1CRkEtgVqZ3o4zc1zSy+f2x9U9y7nwSzgzhhreja92A1lUK+tKWWKvk8QG8vYSTBw=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.119</title>
       <pubDate>Thu, 29 Oct 2026 01:34:42 +0000</pubDate>
       <sparkle:version>0.66.119.9999</sparkle:version>
@@ -220,15 +229,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Channel Rack no estilo FL Studio: pintar steps arrastando (direito apaga, um ⌘Z por gesto), playhead preso ao áudio, steps fantasmas até 64, LED neon na cor do canal, régua, solo pela bolinha, seleção e reordenar canais, knobs FL, menu do canal novo, ⇧⌘←/→, editor de steps (E), swing e prévia do piano roll.</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.91/Dreams-0.66.91.zip" length="36282475" type="application/octet-stream" sparkle:edSignature="iZlmhYUbzWlkut9CO9wLB+fw3nCgW0UUX4Y0QnSwp21KPMxMf9BMV5iFvULQyQ3rRQZsXUVpzs7YVPbxIUncAw=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.85</title>
-      <pubDate>Wed, 14 Oct 2026 22:53:01 +0000</pubDate>
-      <sparkle:version>0.66.85.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.85</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Correção: o áudio gravado não tocava quando o monitor da pista estava em IN. Agora IN ouve a entrada e também toca os takes da pista (eles só calam enquanto a pista grava).</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.85/Dreams-0.66.85.zip" length="36129403" type="application/octet-stream" sparkle:edSignature="lO5M+TvX3ozXWSAQ5edpVKBtiBzvl4Qk0WVgdxLMyx89+KFQzfpS7VUmHzFjvBSWzrDYE5uyYMWPBf1ji8KWCg=="/>
     </item>
   </channel>
 </rss>
