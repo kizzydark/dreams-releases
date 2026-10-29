@@ -6,6 +6,15 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.119</title>
+      <pubDate>Thu, 29 Oct 2026 01:34:42 +0000</pubDate>
+      <sparkle:version>0.66.119.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.119</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Gravação por voz/batucada agora toca a pista mesmo quando ela tem um controlador MIDI escolhido. O painel mostra o nível do microfone e avisa se o macOS bloqueou o microfone.</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.119/Dreams-0.66.119.zip" length="37149310" type="application/octet-stream" sparkle:edSignature="z+hwDsuQ0x1dewDYTn3RaAnMYg6owF3oMmC0XEmUiwY96vbobG68F6A+w+gjL51Aqr6+W1rKXd2ypSybmK7mDg=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.118</title>
       <pubDate>Thu, 29 Oct 2026 01:03:50 +0000</pubDate>
       <sparkle:version>0.66.118.9999</sparkle:version>
@@ -220,15 +229,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Correção: o áudio gravado não tocava quando o monitor da pista estava em IN. Agora IN ouve a entrada e também toca os takes da pista (eles só calam enquanto a pista grava).</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.85/Dreams-0.66.85.zip" length="36129403" type="application/octet-stream" sparkle:edSignature="lO5M+TvX3ozXWSAQ5edpVKBtiBzvl4Qk0WVgdxLMyx89+KFQzfpS7VUmHzFjvBSWzrDYE5uyYMWPBf1ji8KWCg=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.84</title>
-      <pubDate>Wed, 14 Oct 2026 12:02:08 +0000</pubDate>
-      <sparkle:version>0.66.84.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.84</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Mixer: destacar/acoplar em janela própria (2º monitor), renomear no rodapé, 1 clique abre o plugin, lista de Devices rola, sends com 1 clique digita / duplo = -inf. Área de Trabalho: Gain Halo no volume da pista armada, Mute azul, roteamento interno (entrada/saída para outras pistas, Returns e sidechain de plugins, resampling), ganho do clip com 1 clique digita / duplo = 0 dB, menu da pista sem Mais opções, clipe MIDI acompanha as notas. Biblioteca: pasta do usuário só como raiz, onda sempre visível, ícone em Tocar na grade. Piano Roll: teclas acendem com o MIDI ao vivo, pincel para trás, cabeçalho limpo, faixa inferior em abas no rodapé.</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.84/Dreams-0.66.84.zip" length="36129424" type="application/octet-stream" sparkle:edSignature="CTnh6SKMjjrbrmbhi+C95O4mzD415jOKxpvx5rSNJZBmpOanbRjuQbMps2tq8ZiCiPYqaKmNrrccKgjGrKgvDw=="/>
     </item>
   </channel>
 </rss>

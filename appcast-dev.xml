@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.119</title>
+      <pubDate>Thu, 29 Oct 2026 01:34:42 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.119.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.119</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Gravação por voz/batucada agora toca a pista mesmo quando ela tem um controlador MIDI escolhido. O painel mostra o nível do microfone e avisa se o macOS bloqueou o microfone.</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.119/Dreams-0.66.119.zip" length="37149310" type="application/octet-stream" sparkle:edSignature="z+hwDsuQ0x1dewDYTn3RaAnMYg6owF3oMmC0XEmUiwY96vbobG68F6A+w+gjL51Aqr6+W1rKXd2ypSybmK7mDg=="/>
+    </item>
+    <item>
       <title>Kizzy: Dreams 0.66.118: agrupar canais no Channel Rack e título que abre/fecha o Piano Roll</title>
       <pubDate>Thu, 29 Oct 2026 01:04:14 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Atualização online: se o Dreams for aberto direto do instalador (DMG), ele agora avisa e se instala em Aplicativos com um clique. Rodando do DMG, as atualizações online não conseguiam ser instaladas.</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.93/Dreams-0.66.93.zip" length="36294326" type="application/octet-stream" sparkle:edSignature="OUNVhRR5/BZ4jYwzZH+rtRuF1tQLG3sWf8gZCe+MrbmMfPNZ8z6DRY0Ov85QpGMivhPDUBaUDWiL7swuZWRWDg=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.92</title>
-      <pubDate>Sat, 17 Oct 2026 01:47:29 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.92.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.92</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Correção: a forma de onda do Sampler no painel Devices passava por cima do título e dos knobs com samples muito altos. Agora ela fica dentro da faixa e se ajusta ao pico do arquivo.</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.92/Dreams-0.66.92.zip" length="36284954" type="application/octet-stream" sparkle:edSignature="yDgc4sLFMEz2nKzQ4kG5QPWfwDPLRby9c/E4AwfYX0Mu9llrtCyxqT4lxXoZukGP6JWe45GceVFZs92sXehXBg=="/>
     </item>
   </channel>
 </rss>
