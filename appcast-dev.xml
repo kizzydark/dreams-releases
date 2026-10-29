@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Kizzy: Dreams 0.66.119: Áudio → MIDI (voz/batucada) passa a tocar a track</title>
+      <pubDate>Thu, 29 Oct 2026 01:35:08 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.113.5</sparkle:version>
+      <sparkle:shortVersionString>0.66.113 dev 5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Dreams 0.66.119: Áudio → MIDI (voz/batucada) passa a tocar a track (Kizzy)</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-5/Dreams-0.66.113-dev-5.zip" length="14909407" type="application/octet-stream" sparkle:edSignature="AIuA/WpVgjm+I1U030bMkiBnc33IxRso9VhqwtynO35EECbydHXnNvQPiszgrthGNP2BmiGhTgEDa/nJ4F8lCw=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.119</title>
       <pubDate>Thu, 29 Oct 2026 01:34:42 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Mixer: nomes dos plugins maiores, M no Master, monitoramento IN verde / AUTO laranja / OFF vermelho, valor do volume (1 clique digita, duplo = 0 dB). Área de Trabalho: pistas de 100 px (150 px com I/O), largura dos cabeçalhos ajustável, crossfade com losango para mudar a curva, sem cursor de texto. Piano Roll: botão 🎧 liga/desliga o som ao desenhar notas. Exportar em MP3 (128 a 320 kbps, CBR/VBR, 44,1/48 kHz).</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.97/Dreams-0.66.97.zip" length="36692025" type="application/octet-stream" sparkle:edSignature="OV4RWvL6JgCHLAHi0tJFqwpGKmV5GFT18dtRNFLcJbnS5567ltbPm3Sqk0KWV8m47nTUAZUcikZhWOj/IBQiCg=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.93</title>
-      <pubDate>Sat, 17 Oct 2026 06:02:06 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.93.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.93</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Atualização online: se o Dreams for aberto direto do instalador (DMG), ele agora avisa e se instala em Aplicativos com um clique. Rodando do DMG, as atualizações online não conseguiam ser instaladas.</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.93/Dreams-0.66.93.zip" length="36294326" type="application/octet-stream" sparkle:edSignature="OUNVhRR5/BZ4jYwzZH+rtRuF1tQLG3sWf8gZCe+MrbmMfPNZ8z6DRY0Ov85QpGMivhPDUBaUDWiL7swuZWRWDg=="/>
     </item>
   </channel>
 </rss>
