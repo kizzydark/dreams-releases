@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Kizzy: Dreams 0.66.132: Nova pista com 5 tipos, menus pesquisáveis e pop-up rápido</title>
+      <pubDate>Sat, 31 Oct 2026 06:25:33 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.131.19</sparkle:version>
+      <sparkle:shortVersionString>0.66.131 dev 19</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Dreams 0.66.132: Nova pista com 5 tipos, menus pesquisáveis e pop-up rápido (Kizzy)</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-19/Dreams-0.66.131-dev-19.zip" length="15107610" type="application/octet-stream" sparkle:edSignature="av0r08x8r/rIr2TQSPY/jRH5I9hGqlUg/HD2iv/b/afyneSv4n5fv4m1z0YY+NLICfWcC4WV4//K5GC8K1sdDg=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.132</title>
       <pubDate>Sat, 31 Oct 2026 06:24:53 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Dreams 0.66.120: grupos dentro do Channel Rack e número do grupo só leitura (Kizzy)</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-7/Dreams-0.66.113-dev-7.zip" length="14931251" type="application/octet-stream" sparkle:edSignature="maVC3FsQzMeAsMSb6kWrniCTIm0W1FHrRNAal084GNyVBq6a7RMUBdo5+AxIJhNexbneQ6Rks1mI3EzQnvi2Dg=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.120</title>
-      <pubDate>Thu, 29 Oct 2026 02:05:00 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.120.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.120</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Channel Rack mostra os grupos (recolher, mute, solo, volume, arrastar canais para dentro e para fora). O número do grupo agora é só indicador. A partir desta versão o macOS lembra a permissão do microfone entre atualizações.</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.120/Dreams-0.66.120.zip" length="37270314" type="application/octet-stream" sparkle:edSignature="9DTydMhhCQOMIvVoZ4sZZ1CRkEtgVqZ3o4zc1zSy+f2x9U9y7nwSzgzhhreja92A1lUK+tKWWKvk8QG8vYSTBw=="/>
     </item>
   </channel>
 </rss>
