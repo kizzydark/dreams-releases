@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Kizzy: Dreams 0.66.130: sample do Browser carrega no canal Sampler vazio</title>
+      <pubDate>Sat, 31 Oct 2026 05:23:35 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.127.17</sparkle:version>
+      <sparkle:shortVersionString>0.66.127 dev 17</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Dreams 0.66.130: sample do Browser carrega no canal Sampler vazio (Kizzy)</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-17/Dreams-0.66.127-dev-17.zip" length="15041347" type="application/octet-stream" sparkle:edSignature="b4yboyICJVyQLcYzM4fp0pVswRxaHDOZMzXtFGmCFGXkFjTYdiT+pWZs+xjcBmdxatciv73KBZ3fOtUiNQodBw=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.130</title>
       <pubDate>Sat, 31 Oct 2026 05:22:27 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Gravação por voz/batucada agora toca a pista mesmo quando ela tem um controlador MIDI escolhido. O painel mostra o nível do microfone e avisa se o macOS bloqueou o microfone.</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.119/Dreams-0.66.119.zip" length="37149310" type="application/octet-stream" sparkle:edSignature="z+hwDsuQ0x1dewDYTn3RaAnMYg6owF3oMmC0XEmUiwY96vbobG68F6A+w+gjL51Aqr6+W1rKXd2ypSybmK7mDg=="/>
-    </item>
-    <item>
-      <title>Kizzy: Dreams 0.66.118: agrupar canais no Channel Rack e título que abre/fecha o Piano Roll</title>
-      <pubDate>Thu, 29 Oct 2026 01:04:14 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.113.4</sparkle:version>
-      <sparkle:shortVersionString>0.66.113 dev 4</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Dreams 0.66.118: agrupar canais no Channel Rack e título que abre/fecha o Piano Roll (Kizzy)</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-4/Dreams-0.66.113-dev-4.zip" length="14905394" type="application/octet-stream" sparkle:edSignature="IHVEBg1t2wf0ExgBRBKuqM/2myb8cXeio++9B7yO6to/xsRQyA6dZRS6PtzoOihSDiZuB+Gz/LRClz3tco/bCA=="/>
     </item>
   </channel>
 </rss>
