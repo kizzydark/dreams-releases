@@ -6,6 +6,15 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.124</title>
+      <pubDate>Sat, 31 Oct 2026 02:13:05 +0000</pubDate>
+      <sparkle:version>0.66.124.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.124</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Gravação por voz/batucada com bem menos atraso; painel mostra o atraso da interface</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.124/Dreams-0.66.124.zip" length="37285533" type="application/octet-stream" sparkle:edSignature="6qHqTWM+g9+9GLRfWh7pupck+5lfMWGXeU+WSqe+gHj4+Qf8vX5Dh0T4i7/aAt3hjK4xf4bDqFWMCyZNQ+4zAA=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.123</title>
       <pubDate>Sat, 31 Oct 2026 01:50:19 +0000</pubDate>
       <sparkle:version>0.66.123.9999</sparkle:version>
@@ -220,15 +229,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Channel Rack: colocar o pattern na Área de Trabalho (um clip por canal), novo pattern já com clips, clicar num clip MIDI troca o pattern do rack e botão PAT/SONG para tocar só o pattern em loop. Piano Roll: ferramenta Ponteiro (V: duplo clique cria/apaga, ⌘+arrastar seleciona), Selecionar passou para o S e seleciona só notas, e a nota nasce no início da célula clicada. Cabeçalho das pistas com 228 × 100 px.</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.100/Dreams-0.66.100.zip" length="36743939" type="application/octet-stream" sparkle:edSignature="y22t044Cj5vfn/NfXsny3ynphx4B94b+teGyEQCJaPDdJAMcEHsA89hQVYqtcPMFEM3VNimPn/xDT5YRHkhTCA=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.97</title>
-      <pubDate>Sun, 18 Oct 2026 00:00:23 +0000</pubDate>
-      <sparkle:version>0.66.97.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.97</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Mixer: nomes dos plugins maiores, M no Master, monitoramento IN verde / AUTO laranja / OFF vermelho, valor do volume (1 clique digita, duplo = 0 dB). Área de Trabalho: pistas de 100 px (150 px com I/O), largura dos cabeçalhos ajustável, crossfade com losango para mudar a curva, sem cursor de texto. Piano Roll: botão 🎧 liga/desliga o som ao desenhar notas. Exportar em MP3 (128 a 320 kbps, CBR/VBR, 44,1/48 kHz).</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.97/Dreams-0.66.97.zip" length="36692025" type="application/octet-stream" sparkle:edSignature="OV4RWvL6JgCHLAHi0tJFqwpGKmV5GFT18dtRNFLcJbnS5567ltbPm3Sqk0KWV8m47nTUAZUcikZhWOj/IBQiCg=="/>
     </item>
   </channel>
 </rss>

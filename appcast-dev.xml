@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.124</title>
+      <pubDate>Sat, 31 Oct 2026 02:13:06 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.124.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.124</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Gravação por voz/batucada com bem menos atraso; painel mostra o atraso da interface</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.124/Dreams-0.66.124.zip" length="37285533" type="application/octet-stream" sparkle:edSignature="6qHqTWM+g9+9GLRfWh7pupck+5lfMWGXeU+WSqe+gHj4+Qf8vX5Dh0T4i7/aAt3hjK4xf4bDqFWMCyZNQ+4zAA=="/>
+    </item>
+    <item>
       <title>Kizzy: Dreams 0.66.123: menu da track abre a Gravação por voz/batucada</title>
       <pubDate>Sat, 31 Oct 2026 01:50:58 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Correções: crossfade vai junto ao duplicar/colar, não fica dormente, consolidar um lado, warp markers, compatível com versões antigas; corte sem queda; fade livre do grid; fades mantêm a duração ao mudar o BPM; BPM aprende a sua oitava com o ½×/2×</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.109/Dreams-0.66.109.zip" length="37005979" type="application/octet-stream" sparkle:edSignature="2l3f2/0W1YUd0OlnZnAVkfMC/5eLmd5IWbT4243UxxCdH08qm0XRCgpywmFE/1xp2DRPI5IizzHzvahSSvYRBg=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.108</title>
-      <pubDate>Thu, 22 Oct 2026 00:01:20 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.108.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.108</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Crossfade: bordas mudam início e fim separados, corpo move, duplo clique digita a duração, limite avisa o motivo, abaixo de 1 ms remove</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.108/Dreams-0.66.108.zip" length="36954944" type="application/octet-stream" sparkle:edSignature="QJiANBiBU6XV82U9zUv7nVzfzlhsKW7eKDc2QQxYOZt+SAu4SS1c0k6kKpmIFfV2XR6QRHVRozwHwP1FkmArCA=="/>
     </item>
   </channel>
 </rss>
