@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.125</title>
+      <pubDate>Sat, 31 Oct 2026 02:34:19 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.125.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.125</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Afinador Nota a Nota redesenhado: notas coloridas pela afinação, alças de vibrato/transição/volume, inspetor e auto-correção</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.125/Dreams-0.66.125.zip" length="37329895" type="application/octet-stream" sparkle:edSignature="Pqmsqv9CvySbPDPea4XF2B5d8WF37O/7ljLT+yU7vH6Q0lkup6S1Prc9o3qElApc9Uqf696ShIZSnbh3paHuAQ=="/>
+    </item>
+    <item>
       <title>Kizzy: Dreams 0.66.124: voz/batucada -&gt; MIDI com bem menos atraso</title>
       <pubDate>Sat, 31 Oct 2026 02:13:45 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Título do clip maior (18 px), botões da barra de baixo 34×34, cores dos ícones por tema e editáveis em Aparência &gt; Ícones, Delete só apaga a track com clique direto na Track Title Bar</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.111/Dreams-0.66.111.zip" length="37094110" type="application/octet-stream" sparkle:edSignature="kKEoB1tbzVRnZAMrSYcd5VsR+cMLJrXoG4XacpPxC8Xe94Vv6iMrth4jUi599yky4rvNRooXnv+/aHWomvtvAw=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.110</title>
-      <pubDate>Thu, 22 Oct 2026 00:56:44 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.110.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.110</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Ícones novos na barra de baixo (Channel Rack, Área de Trabalho, Devices, Editor de Áudio, Biblioteca, Mixer, Piano Roll) e clip de áudio com a cor só no título e na borda</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.110/Dreams-0.66.110.zip" length="37020860" type="application/octet-stream" sparkle:edSignature="vuagfy3cnKUfocR8E5pLqlrzl5tJOEPMRARxK0e8LxLNuNxQX4q73VaEy2l60Q9tMtZjEg9lUqbp9fd1uLNeDw=="/>
     </item>
   </channel>
 </rss>
