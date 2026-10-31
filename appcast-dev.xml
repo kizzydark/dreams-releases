@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.129</title>
+      <pubDate>Sat, 31 Oct 2026 05:05:56 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.129.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.129</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Mixer: selecionar, arrastar entre canais e copiar/colar devices; duplo clique abre o plugin</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.129/Dreams-0.66.129.zip" length="37474499" type="application/octet-stream" sparkle:edSignature="dES5wZ+HHbu8ZUT0hBrViSFO+DTkj7FuxGMPsUfl6pmGFZ56j3G1mbRIyw17c9mnk/+Gu7OLw9oOYR45nzHdAQ=="/>
+    </item>
+    <item>
       <title>Kizzy: Dreams 0.66.128: Sampler do one-shot com uma interface só e editor novo</title>
       <pubDate>Sat, 31 Oct 2026 04:36:47 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Dreams 0.66.117: tira o botão de loop da barra superior (Kizzy)</li><li>Dreams 0.66.117: Love Tune versão F (coração acende pela afinação) (Kizzy)</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-3/Dreams-0.66.113-dev-3.zip" length="14898828" type="application/octet-stream" sparkle:edSignature="0x+qc3Nk+rw1iXqU/x+y739q+atyKxX9N6mXh+LL4IlPxFQF291Elvw6QAc34STS4wCHKNRbsr1GVPM3jlUICw=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.117</title>
-      <pubDate>Thu, 29 Oct 2026 00:46:05 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.117.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.117</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Love Tune novo: o coração acende em rosa quando a voz está afinada e fica roxo quando sai da nota; tela limpa com Retune Speed, Humanize e Flex Tune, o resto na engrenagem. O botão de loop saiu da barra de cima (⌘L continua).</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.117/Dreams-0.66.117.zip" length="37131071" type="application/octet-stream" sparkle:edSignature="AkVQtfjEBXXWBImX/6HbcRjhY8iu4Fht1Au2kH5w/e7bK65dIOIcJxG11M5ae1SU8CdklARaNSyBZatHL+9JCw=="/>
     </item>
   </channel>
 </rss>
