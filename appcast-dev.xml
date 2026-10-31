@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.126</title>
+      <pubDate>Sat, 31 Oct 2026 03:07:08 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.126.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.126</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Afinador Nota a Nota com motor de voz novo: corrige a altura preservando o timbre (não embola)</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.126/Dreams-0.66.126.zip" length="37352103" type="application/octet-stream" sparkle:edSignature="4bG6vPJQRiE4zqTvt4Ew2pHaguLL+z8riqlhF32iQMbv0aqsOYvtCZxUXorlWamUr8csOWMHeRgkDFvO73sZCA=="/>
+    </item>
+    <item>
       <title>Kizzy: Dreams 0.66.125: Afinador Nota a Nota redesenhado (inspirado no fluxo do Vovious)</title>
       <pubDate>Sat, 31 Oct 2026 02:34:41 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Com a automação (A) ligada, clicar dentro da janela de um plugin de terceiros (ex.: FabFilter) abre a lane do parâmetro</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.113/Dreams-0.66.113.zip" length="37101256" type="application/octet-stream" sparkle:edSignature="Z5IaxRVGKC7JCe2FtGSahmAoUiaBX4OjOyJYX2pk0wvs50ba9y7uHFuv7MJ2KNqP8OlQd0lIY+BU5TGCUwI+Dw=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.112</title>
-      <pubDate>Thu, 22 Oct 2026 02:42:11 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.112.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.112</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Depois de clicar na Track Title Bar, Delete apaga a track e segue para a próxima (Delete, Delete...); clicar num clip ou em outra coisa cancela</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.112/Dreams-0.66.112.zip" length="37099810" type="application/octet-stream" sparkle:edSignature="3OFry+IXM6B4DurS/pQeLqxxRZA1wHfYNX5vk1LTdjQumD5x7ZnVQZuzh+d3aD4tBRyfWac08fJEhMD+TIGvBA=="/>
     </item>
   </channel>
 </rss>
