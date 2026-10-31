@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.127</title>
+      <pubDate>Sat, 31 Oct 2026 03:28:35 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.127.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.127</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Afinador Nota a Nota com visual novo; a prévia afinada toca sozinha enquanto você edita</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.127/Dreams-0.66.127.zip" length="37358164" type="application/octet-stream" sparkle:edSignature="fScl5Gj4MnPK8DU24B/r7zQ8ch+3BUgTqCNgDgPL6KIubbQCWw6jMaFCVmlKMn3KuAGUgl65Yzjluw3OW2J/Cg=="/>
+    </item>
+    <item>
       <title>Kizzy: Dreams 0.66.126: Afinador Nota a Nota com motor de voz (TD-PSOLA)</title>
       <pubDate>Sat, 31 Oct 2026 03:08:02 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Biblioteca: → abre a pasta e entra nela, ← recolhe a pasta onde você está. Tracks com 100 px fixos. Love Tune: o coração neon gigante que se mexe como a waveform da voz.</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.115/Dreams-0.66.115.zip" length="37073840" type="application/octet-stream" sparkle:edSignature="bvPFe2Vx9+RmhhXgzwFyBdCBB5EcgXC8sNvRf0njHLIsCIcfx7rnYAVOk9XuUYpUBcfPxc7sjbktTuSsqNkvDw=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.114</title>
-      <pubDate>Thu, 22 Oct 2026 03:23:05 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.114.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.114</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Mais leve em Macs Intel: a Biblioteca não varre tudo a cada abertura (índice guardado), Mixer e Channel Rack param de trabalhar quando não precisam, efeitos dormem no silêncio. CPU parado com projeto grande caiu de ~100% para ~7-20% de um núcleo</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.114/Dreams-0.66.114.zip" length="37069454" type="application/octet-stream" sparkle:edSignature="omFs8951NqVshScq7u05ccg3nKcHhxQr0Y3GT1s5GkqGigW+r5N9yQGpmIurzD0T2OPAezE1NpapOTk50o7UAg=="/>
     </item>
   </channel>
 </rss>

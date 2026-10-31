@@ -6,6 +6,15 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.127</title>
+      <pubDate>Sat, 31 Oct 2026 03:28:35 +0000</pubDate>
+      <sparkle:version>0.66.127.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.127</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Afinador Nota a Nota com visual novo; a prévia afinada toca sozinha enquanto você edita</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.127/Dreams-0.66.127.zip" length="37358164" type="application/octet-stream" sparkle:edSignature="fScl5Gj4MnPK8DU24B/r7zQ8ch+3BUgTqCNgDgPL6KIubbQCWw6jMaFCVmlKMn3KuAGUgl65Yzjluw3OW2J/Cg=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.126</title>
       <pubDate>Sat, 31 Oct 2026 03:07:07 +0000</pubDate>
       <sparkle:version>0.66.126.9999</sparkle:version>
@@ -220,15 +229,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Detector de BPM treinado com músicas reais: 12,9% → 76,8% de acerto exato; faixa 50-200 BPM; ½×/2× para a oitava</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.103/Dreams-0.66.103.zip" length="36786180" type="application/octet-stream" sparkle:edSignature="O/dkopmJJQKMWslfubHUlVlilICqPKj2glEaUCc71xuuEwcckyFkJV7epRulzMZI7HoV6NpTKy2q4O62Uk7dAQ=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.102</title>
-      <pubDate>Tue, 20 Oct 2026 20:18:41 +0000</pubDate>
-      <sparkle:version>0.66.102.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.102</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Channel Rack e clips MIDI: botão ↻ liga o loop do clip (clips novos esticam sem repetir), botão 🎧 liga/desliga o som dos steps, o clip MIDI estica e encolhe junto com os steps, fundo dos steps alternando a cada 4 e copiar/colar o desenho de um canal com ⌘C/⌘V.</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.102/Dreams-0.66.102.zip" length="36760917" type="application/octet-stream" sparkle:edSignature="LewPkNOcE3vd+tjpV5qcOH19y7Lueo3FVhGRXV8J1IDdkx3Ox48r9p/GhDeATasAs2f712uOxm/hcuHnMPchBg=="/>
     </item>
   </channel>
 </rss>
