@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Kizzy: Dreams 0.66.129: caixa DEVICES do mixer com seleção, arrastar e copiar/colar</title>
+      <pubDate>Sat, 31 Oct 2026 05:07:03 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.127.16</sparkle:version>
+      <sparkle:shortVersionString>0.66.127 dev 16</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Dreams 0.66.129: caixa DEVICES do mixer com seleção, arrastar e copiar/colar (Kizzy)</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-16/Dreams-0.66.127-dev-16.zip" length="15036471" type="application/octet-stream" sparkle:edSignature="uN8U/3ChOThf0YvT7UKEVgR+hQJutNLTzkMIncr/LtNq1VdoGXP+0sfejcLzW7DGniHw0iZ3HXu55u2P47MqAA=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.129</title>
       <pubDate>Sat, 31 Oct 2026 05:05:56 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Channel Rack: selecione canais com clique, Shift e Cmd e agrupe com Cmd+G (o mesmo grupo da Área de Trabalho). Clicar no nome do canal abre e fecha o Piano Roll.</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.118/Dreams-0.66.118.zip" length="37148497" type="application/octet-stream" sparkle:edSignature="sudR8yX1p+8S9ivZUvZFY6+LhOoDrwNWuB14ev9z+3SllBwaE8hl7IyxGZxKCl9vbiiK5ela0ndYyIGilblgBw=="/>
-    </item>
-    <item>
-      <title>Kizzy: Dreams 0.66.117: tira o botão de loop da barra superior</title>
-      <pubDate>Thu, 29 Oct 2026 00:46:28 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.113.3</sparkle:version>
-      <sparkle:shortVersionString>0.66.113 dev 3</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Dreams 0.66.117: tira o botão de loop da barra superior (Kizzy)</li><li>Dreams 0.66.117: Love Tune versão F (coração acende pela afinação) (Kizzy)</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-3/Dreams-0.66.113-dev-3.zip" length="14898828" type="application/octet-stream" sparkle:edSignature="0x+qc3Nk+rw1iXqU/x+y739q+atyKxX9N6mXh+LL4IlPxFQF291Elvw6QAc34STS4wCHKNRbsr1GVPM3jlUICw=="/>
     </item>
   </channel>
 </rss>
