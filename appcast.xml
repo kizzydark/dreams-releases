@@ -6,6 +6,15 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.130</title>
+      <pubDate>Sat, 31 Oct 2026 05:22:26 +0000</pubDate>
+      <sparkle:version>0.66.130.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.130</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Sample do Browser carrega no canal Sampler vazio selecionado; + Sampler já abre o Carregar</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.130/Dreams-0.66.130.zip" length="37491455" type="application/octet-stream" sparkle:edSignature="y8RGErI/j+0juKnzIbuIm1z4ZQASpGVanI8IWyxMvO1Vskaf+QPbMIcZgskT5I1yEJ7/q5UPRY1OvJTae+xHAQ=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.129</title>
       <pubDate>Sat, 31 Oct 2026 05:05:56 +0000</pubDate>
       <sparkle:version>0.66.129.9999</sparkle:version>
@@ -220,15 +229,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Ganho (dB) do clip de áudio agora fica na parte de baixo do clip</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.106/Dreams-0.66.106.zip" length="36815740" type="application/octet-stream" sparkle:edSignature="YUFr8+LfTNjWk1Byp54ouRlaC6tqGML0DY3IV5zSw46APvD+h+701S0YokgMCTbR1sDv3/VNhFJbbuiq4c5WCQ=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.105</title>
-      <pubDate>Wed, 21 Oct 2026 22:44:36 +0000</pubDate>
-      <sparkle:version>0.66.105.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.105</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Fades e crossfade no padrão do Ableton: fade até o outro fade, crossfade arrastando a alça, Delete no crossfade, anti-estalo de 4 ms</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.105/Dreams-0.66.105.zip" length="36815957" type="application/octet-stream" sparkle:edSignature="JODKmh035GUYgfPHtUPU7Op9PKvAK1hTcXvFc6j0rvFM47x7OEd6wAU9k5Ql3YPn2pdyakQp8R3rJ7H3v/4uCw=="/>
     </item>
   </channel>
 </rss>
