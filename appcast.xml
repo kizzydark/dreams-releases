@@ -6,6 +6,15 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.122</title>
+      <pubDate>Sat, 31 Oct 2026 00:51:45 +0000</pubDate>
+      <sparkle:version>0.66.122.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.122</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Detector de BPM treinado com mais 199 músicas; loops curtos detectados pelo tamanho</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.122/Dreams-0.66.122.zip" length="37279435" type="application/octet-stream" sparkle:edSignature="t3jlpRfYifZufv0QT439KwYiCB1YtAaSDWFzBdQ1Ns1N6/Vq5Dtns7rJRAaWpLgQ1/GCiG5efixK9fwfwWFLCA=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.121</title>
       <pubDate>Thu, 29 Oct 2026 23:11:13 +0000</pubDate>
       <sparkle:version>0.66.121.9999</sparkle:version>
@@ -220,15 +229,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Atualização online: se o Dreams for aberto direto do instalador (DMG), ele agora avisa e se instala em Aplicativos com um clique. Rodando do DMG, as atualizações online não conseguiam ser instaladas.</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.93/Dreams-0.66.93.zip" length="36294326" type="application/octet-stream" sparkle:edSignature="OUNVhRR5/BZ4jYwzZH+rtRuF1tQLG3sWf8gZCe+MrbmMfPNZ8z6DRY0Ov85QpGMivhPDUBaUDWiL7swuZWRWDg=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.92</title>
-      <pubDate>Sat, 17 Oct 2026 01:47:29 +0000</pubDate>
-      <sparkle:version>0.66.92.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.92</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Correção: a forma de onda do Sampler no painel Devices passava por cima do título e dos knobs com samples muito altos. Agora ela fica dentro da faixa e se ajusta ao pico do arquivo.</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.92/Dreams-0.66.92.zip" length="36284954" type="application/octet-stream" sparkle:edSignature="yDgc4sLFMEz2nKzQ4kG5QPWfwDPLRby9c/E4AwfYX0Mu9llrtCyxqT4lxXoZukGP6JWe45GceVFZs92sXehXBg=="/>
     </item>
   </channel>
 </rss>
