@@ -6,6 +6,15 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.131</title>
+      <pubDate>Sat, 31 Oct 2026 05:42:47 +0000</pubDate>
+      <sparkle:version>0.66.131.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.131</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Sampler do one-shot: acha o sample que mudou de lugar, mostra Sample não encontrado com Localizar, Trocar sample no desfazer, Arquivo &gt; Salvar e coletar samples</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.131/Dreams-0.66.131.zip" length="37542574" type="application/octet-stream" sparkle:edSignature="G1JCU8WhnaKBEY1OSJWPzXU6ZKgh2C/LgGcNEHDBmVKknA84CwcllbdWomzWHclZFVU+k1Th/iuq4p8K5nbQBA=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.130</title>
       <pubDate>Sat, 31 Oct 2026 05:22:26 +0000</pubDate>
       <sparkle:version>0.66.130.9999</sparkle:version>
@@ -220,15 +229,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Crossfade como objeto próprio: substitui os fades dos clips, bordas mudam a duração, corpo muda a posição, curvas Linear/Potência constante/S/Exp/Log (inclusive diferentes por lado), Delete devolve os fades</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.107/Dreams-0.66.107.zip" length="36947171" type="application/octet-stream" sparkle:edSignature="ARLq34ui4kjbVUbklukavW96LHV7vyE1g7I1JK+9yUTX7nT8V2y1ziVDHTgDLBw2Vf3vdesBIHpVJINvtf6qCQ=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.106</title>
-      <pubDate>Wed, 21 Oct 2026 23:02:23 +0000</pubDate>
-      <sparkle:version>0.66.106.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.106</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Ganho (dB) do clip de áudio agora fica na parte de baixo do clip</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.106/Dreams-0.66.106.zip" length="36815740" type="application/octet-stream" sparkle:edSignature="YUFr8+LfTNjWk1Byp54ouRlaC6tqGML0DY3IV5zSw46APvD+h+701S0YokgMCTbR1sDv3/VNhFJbbuiq4c5WCQ=="/>
     </item>
   </channel>
 </rss>
