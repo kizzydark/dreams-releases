@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Kizzy: Dreams 0.66.127: Afinador Nota a Nota com visual novo e prévia sempre ligada</title>
+      <pubDate>Sat, 31 Oct 2026 03:28:47 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.126.14</sparkle:version>
+      <sparkle:shortVersionString>0.66.126 dev 14</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Dreams 0.66.127: Afinador Nota a Nota com visual novo e prévia sempre ligada (Kizzy)</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-14/Dreams-0.66.126-dev-14.zip" length="14975398" type="application/octet-stream" sparkle:edSignature="4tzGwZ1+/VOdRSFXjPd5ufTmdojGEwXo791FGbh+7ruF6No6hzNIVNSZ+iRbVq6KGU322w+vW2viwi79NjKEBA=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.127</title>
       <pubDate>Sat, 31 Oct 2026 03:28:35 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Channel Rack na ordem do FL: botão do nome, knobs compactos, steps que acendem inteiros e piscam no tempo da música. Clique direito abre menus no step, no canal e na área vazia.</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.116/Dreams-0.66.116.zip" length="37117828" type="application/octet-stream" sparkle:edSignature="DXhWX6fLcmq6kci+Mjku6NRJmL//9i8X4uAULkm9cHxCpj0GXlhdO+5fBkrdz1osWpbG6Rx5Ai75AiuzuJolDA=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.115</title>
-      <pubDate>Wed, 28 Oct 2026 23:51:50 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.115.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.115</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Biblioteca: → abre a pasta e entra nela, ← recolhe a pasta onde você está. Tracks com 100 px fixos. Love Tune: o coração neon gigante que se mexe como a waveform da voz.</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.115/Dreams-0.66.115.zip" length="37073840" type="application/octet-stream" sparkle:edSignature="bvPFe2Vx9+RmhhXgzwFyBdCBB5EcgXC8sNvRf0njHLIsCIcfx7rnYAVOk9XuUYpUBcfPxc7sjbktTuSsqNkvDw=="/>
     </item>
   </channel>
 </rss>
