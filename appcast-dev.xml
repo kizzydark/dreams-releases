@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Kizzy: Dreams 0.66.126: Afinador Nota a Nota com motor de voz (TD-PSOLA)</title>
+      <pubDate>Sat, 31 Oct 2026 03:08:02 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.125.13</sparkle:version>
+      <sparkle:shortVersionString>0.66.125 dev 13</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Dreams 0.66.126: Afinador Nota a Nota com motor de voz (TD-PSOLA) (Kizzy)</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-13/Dreams-0.66.125-dev-13.zip" length="14969619" type="application/octet-stream" sparkle:edSignature="BVlkfI/vC5Sd4pRXaNSBZtelYpsZnjuIaU9brH8sBZy02bo9Mz+65AGgrFUNNrmmF0v49KEwUXTZrvV5CXuECg=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.126</title>
       <pubDate>Sat, 31 Oct 2026 03:07:08 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Mais leve em Macs Intel: a Biblioteca não varre tudo a cada abertura (índice guardado), Mixer e Channel Rack param de trabalhar quando não precisam, efeitos dormem no silêncio. CPU parado com projeto grande caiu de ~100% para ~7-20% de um núcleo</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.114/Dreams-0.66.114.zip" length="37069454" type="application/octet-stream" sparkle:edSignature="omFs8951NqVshScq7u05ccg3nKcHhxQr0Y3GT1s5GkqGigW+r5N9yQGpmIurzD0T2OPAezE1NpapOTk50o7UAg=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.113</title>
-      <pubDate>Thu, 22 Oct 2026 02:50:26 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.113.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.113</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Com a automação (A) ligada, clicar dentro da janela de um plugin de terceiros (ex.: FabFilter) abre a lane do parâmetro</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.113/Dreams-0.66.113.zip" length="37101256" type="application/octet-stream" sparkle:edSignature="Z5IaxRVGKC7JCe2FtGSahmAoUiaBX4OjOyJYX2pk0wvs50ba9y7uHFuv7MJ2KNqP8OlQd0lIY+BU5TGCUwI+Dw=="/>
     </item>
   </channel>
 </rss>
