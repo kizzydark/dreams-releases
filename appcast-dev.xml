@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Kizzy: Dreams 0.66.123: menu da track abre a Gravação por voz/batucada</title>
+      <pubDate>Sat, 31 Oct 2026 01:50:58 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.122.10</sparkle:version>
+      <sparkle:shortVersionString>0.66.122 dev 10</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Dreams 0.66.123: menu da track abre a Gravação por voz/batucada (Kizzy)</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-10/Dreams-0.66.122-dev-10.zip" length="14936888" type="application/octet-stream" sparkle:edSignature="3wigFYF9boVdPd7p153S9A7I9KBqD7OENNMx/4dWzTY47cTzpfyaeLtuOeehcSVA97GoQrf5hFi3Shmal1L/Dg=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.123</title>
       <pubDate>Sat, 31 Oct 2026 01:50:19 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Crossfade: bordas mudam início e fim separados, corpo move, duplo clique digita a duração, limite avisa o motivo, abaixo de 1 ms remove</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.108/Dreams-0.66.108.zip" length="36954944" type="application/octet-stream" sparkle:edSignature="QJiANBiBU6XV82U9zUv7nVzfzlhsKW7eKDc2QQxYOZt+SAu4SS1c0k6kKpmIFfV2XR6QRHVRozwHwP1FkmArCA=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.107</title>
-      <pubDate>Wed, 21 Oct 2026 23:31:57 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.107.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.107</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Crossfade como objeto próprio: substitui os fades dos clips, bordas mudam a duração, corpo muda a posição, curvas Linear/Potência constante/S/Exp/Log (inclusive diferentes por lado), Delete devolve os fades</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.107/Dreams-0.66.107.zip" length="36947171" type="application/octet-stream" sparkle:edSignature="ARLq34ui4kjbVUbklukavW96LHV7vyE1g7I1JK+9yUTX7nT8V2y1ziVDHTgDLBw2Vf3vdesBIHpVJINvtf6qCQ=="/>
     </item>
   </channel>
 </rss>
