@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Kizzy: Dreams 0.66.125: Afinador Nota a Nota redesenhado (inspirado no fluxo do Vovious)</title>
+      <pubDate>Sat, 31 Oct 2026 02:34:41 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.124.12</sparkle:version>
+      <sparkle:shortVersionString>0.66.124 dev 12</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Dreams 0.66.125: Afinador Nota a Nota redesenhado (inspirado no fluxo do Vovious) (Kizzy)</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-12/Dreams-0.66.124-dev-12.zip" length="14958605" type="application/octet-stream" sparkle:edSignature="FEqNpBVbA5lHGbf17O7EDpYb6OyCw2JNzfeqTB8CZSQP0OTm9AcILETGgExxqeAOg4/YOgKeFuwsWWjb+wOkCA=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.125</title>
       <pubDate>Sat, 31 Oct 2026 02:34:19 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Depois de clicar na Track Title Bar, Delete apaga a track e segue para a próxima (Delete, Delete...); clicar num clip ou em outra coisa cancela</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.112/Dreams-0.66.112.zip" length="37099810" type="application/octet-stream" sparkle:edSignature="3OFry+IXM6B4DurS/pQeLqxxRZA1wHfYNX5vk1LTdjQumD5x7ZnVQZuzh+d3aD4tBRyfWac08fJEhMD+TIGvBA=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.111</title>
-      <pubDate>Thu, 22 Oct 2026 02:24:01 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.111.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.111</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Título do clip maior (18 px), botões da barra de baixo 34×34, cores dos ícones por tema e editáveis em Aparência &gt; Ícones, Delete só apaga a track com clique direto na Track Title Bar</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.111/Dreams-0.66.111.zip" length="37094110" type="application/octet-stream" sparkle:edSignature="kKEoB1tbzVRnZAMrSYcd5VsR+cMLJrXoG4XacpPxC8Xe94Vv6iMrth4jUi599yky4rvNRooXnv+/aHWomvtvAw=="/>
     </item>
   </channel>
 </rss>
