@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.133</title>
+      <pubDate>Sun, 01 Nov 2026 00:49:05 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.133.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.133</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Grade por cima dos clips; Solo (S) isola na hora; one-shot entra no canal MIDI sem abrir a janela do Sampler</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.133/Dreams-0.66.133.zip" length="37630935" type="application/octet-stream" sparkle:edSignature="g0gj+KHp72g/SxmDlTw56KnpEwmsXShDtduFvMpynbSnrHaba8jn99l5M8pTZm8XhBqLpPLPvOr9mFXjfquUBA=="/>
+    </item>
+    <item>
       <title>Kizzy: Dreams 0.66.133: grade por cima dos clips, Solo isola na hora e one-shot sem abrir o Sampler</title>
       <pubDate>Sun, 01 Nov 2026 00:49:03 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Dreams 0.66.121: grid da Área de Trabalho alterna a cada 2 compassos; voz abre a entrada de áudio sozinha (Kizzy)</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-8/Dreams-0.66.120-dev-8.zip" length="14936179" type="application/octet-stream" sparkle:edSignature="kFhc0GEvWyp6YEXaCim4Vre2sQsAtp2K7AYuiVP93Zkk9k0qgtPqwZwVBHG8Brv98/INXGn005zaWJPIT91nCA=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.121</title>
-      <pubDate>Thu, 29 Oct 2026 23:11:13 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.121.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.121</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Grid da Área de Trabalho alterna a cor a cada 2 compassos; Gravação por voz/batucada abre a entrada de áudio sozinha</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.121/Dreams-0.66.121.zip" length="37278591" type="application/octet-stream" sparkle:edSignature="h0+rqzNFMv+YwSXstIj2uxas3AOENqlAJz+BhPGF5Nbr15X92z2Y2wqaW1Y4VHDnMkI5yX80dzcSMXoBBr8iAg=="/>
     </item>
   </channel>
 </rss>
