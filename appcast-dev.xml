@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Kizzy: Dreams 0.66.135: seleção com ⌘/Shift no Devices e grupos de VSTs (rack)</title>
+      <pubDate>Mon, 02 Nov 2026 15:56:18 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.132.22</sparkle:version>
+      <sparkle:shortVersionString>0.66.132 dev 22</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Dreams 0.66.135: seleção com ⌘/Shift no Devices e grupos de VSTs (rack) (Kizzy)</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-22/Dreams-0.66.132-dev-22.zip" length="15161901" type="application/octet-stream" sparkle:edSignature="37fYt0tm/qPg1ez2GSEER5Hy1ZQOZaUMva+MOC5ekJ3g4P3KwzJu6I99gbj1ulNVeVE61ZYZkzL+McFbqvzCDg=="/>
+    </item>
+    <item>
       <title>Kizzy: Dreams 0.66.134: Sidechain no menu dos 3 pontinhos do device (e VST/AU recebem o sinal)</title>
       <pubDate>Mon, 02 Nov 2026 15:45:45 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Detector de BPM treinado com mais 199 músicas; loops curtos detectados pelo tamanho</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.122/Dreams-0.66.122.zip" length="37279435" type="application/octet-stream" sparkle:edSignature="t3jlpRfYifZufv0QT439KwYiCB1YtAaSDWFzBdQ1Ns1N6/Vq5Dtns7rJRAaWpLgQ1/GCiG5efixK9fwfwWFLCA=="/>
-    </item>
-    <item>
-      <title>Kizzy: Dreams 0.66.122: detector de BPM treinado com mais 199 músicas e loop curto pelo tamanho</title>
-      <pubDate>Sat, 31 Oct 2026 00:49:05 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.121.9</sparkle:version>
-      <sparkle:shortVersionString>0.66.121 dev 9</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Dreams 0.66.122: detector de BPM treinado com mais 199 músicas e loop curto pelo tamanho (Kizzy)</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-9/Dreams-0.66.121-dev-9.zip" length="14936555" type="application/octet-stream" sparkle:edSignature="+vffDHhEsHHRAzsIr/XXK1Mf85Nnp0tBU/H40uxPXtVyanMvINf19oWoGzxkzzMjDOltMrHO8CWTs0Mbl4xQDA=="/>
     </item>
   </channel>
 </rss>
