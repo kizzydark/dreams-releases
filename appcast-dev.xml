@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Kizzy: Dreams 0.66.139: grupos de canais e arrastar para reordenar no Mixer</title>
+      <pubDate>Mon, 02 Nov 2026 16:27:08 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.133.26</sparkle:version>
+      <sparkle:shortVersionString>0.66.133 dev 26</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Dreams 0.66.139: grupos de canais e arrastar para reordenar no Mixer (Kizzy)</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-26/Dreams-0.66.133-dev-26.zip" length="15192302" type="application/octet-stream" sparkle:edSignature="yYYBwEHX0Joz2xbvKhU9G3qTs9vVYeUe81eZte+/biSL+CtonoEBsNfr1PrNQWEgVLntwDZlvYv1zUlkyh/oBA=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.139</title>
       <pubDate>Mon, 02 Nov 2026 16:26:28 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Afinador Nota a Nota redesenhado: notas coloridas pela afinação, alças de vibrato/transição/volume, inspetor e auto-correção</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.125/Dreams-0.66.125.zip" length="37329895" type="application/octet-stream" sparkle:edSignature="Pqmsqv9CvySbPDPea4XF2B5d8WF37O/7ljLT+yU7vH6Q0lkup6S1Prc9o3qElApc9Uqf696ShIZSnbh3paHuAQ=="/>
-    </item>
-    <item>
-      <title>Kizzy: Dreams 0.66.124: voz/batucada -&gt; MIDI com bem menos atraso</title>
-      <pubDate>Sat, 31 Oct 2026 02:13:45 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.123.11</sparkle:version>
-      <sparkle:shortVersionString>0.66.123 dev 11</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Dreams 0.66.124: voz/batucada -&gt; MIDI com bem menos atraso (Kizzy)</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-11/Dreams-0.66.123-dev-11.zip" length="14940344" type="application/octet-stream" sparkle:edSignature="35quUFmD5u9lzuI9nJZ6ztw6fcx9KKLhoJ5Q4lkjyVboL1kJgg1JBUPF+o8qhtn6qHISzPhLk04b/v6u5cTLCA=="/>
     </item>
   </channel>
 </rss>
