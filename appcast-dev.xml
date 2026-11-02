@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.139</title>
+      <pubDate>Mon, 02 Nov 2026 16:26:28 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.139.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.139</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Sidechain no menu do device (VST/AU também); seleção ⌘/Shift e grupos de VSTs; setas na Área de Trabalho; colar na track em foco, tecla S, Solo no Return; dica do Mixer mais leve; grupos e reordenar canais no Mixer</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.139/Dreams-0.66.139.zip" length="37792747" type="application/octet-stream" sparkle:edSignature="rj/NoAEQdsivNIQI5rpfznhVsO/0NIexnhQniTzYrbs0vzFPSLcYx5ebbv0jZsV53/a6Z+DVV1EZTe6BEgkYBA=="/>
+    </item>
+    <item>
       <title>Kizzy: Dreams 0.66.138: dica do volume do Mixer mais leve</title>
       <pubDate>Mon, 02 Nov 2026 16:19:25 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Dreams 0.66.124: voz/batucada -&gt; MIDI com bem menos atraso (Kizzy)</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-11/Dreams-0.66.123-dev-11.zip" length="14940344" type="application/octet-stream" sparkle:edSignature="35quUFmD5u9lzuI9nJZ6ztw6fcx9KKLhoJ5Q4lkjyVboL1kJgg1JBUPF+o8qhtn6qHISzPhLk04b/v6u5cTLCA=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.124</title>
-      <pubDate>Sat, 31 Oct 2026 02:13:06 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.124.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.124</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Gravação por voz/batucada com bem menos atraso; painel mostra o atraso da interface</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.124/Dreams-0.66.124.zip" length="37285533" type="application/octet-stream" sparkle:edSignature="6qHqTWM+g9+9GLRfWh7pupck+5lfMWGXeU+WSqe+gHj4+Qf8vX5Dh0T4i7/aAt3hjK4xf4bDqFWMCyZNQ+4zAA=="/>
     </item>
   </channel>
 </rss>
