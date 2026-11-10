@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.143</title>
+      <pubDate>Tue, 10 Nov 2026 21:03:59 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.143.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.143</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Configurações &gt; Gravação, Warp e Lançar: formato e bits da gravação, Arm/Solo exclusivos, REC esperando o Play, warp na importação, fades nas pontas, modos de disparo do Session, Tap Tempo dá play</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.143/Dreams-0.66.143.zip" length="37950411" type="application/octet-stream" sparkle:edSignature="bdt0ihaecOYsoiLDnNFKJx9oDipeRQRz3k5WknNaA3iYf3qaFlBBd0PCoyyNBx8/OGrICoI8hg+72tc8MmiwBw=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.142</title>
       <pubDate>Thu, 05 Nov 2026 21:55:53 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Afinador Nota a Nota com visual novo; a prévia afinada toca sozinha enquanto você edita</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.127/Dreams-0.66.127.zip" length="37358164" type="application/octet-stream" sparkle:edSignature="fScl5Gj4MnPK8DU24B/r7zQ8ch+3BUgTqCNgDgPL6KIubbQCWw6jMaFCVmlKMn3KuAGUgl65Yzjluw3OW2J/Cg=="/>
-    </item>
-    <item>
-      <title>Kizzy: Dreams 0.66.126: Afinador Nota a Nota com motor de voz (TD-PSOLA)</title>
-      <pubDate>Sat, 31 Oct 2026 03:08:02 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.125.13</sparkle:version>
-      <sparkle:shortVersionString>0.66.125 dev 13</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Dreams 0.66.126: Afinador Nota a Nota com motor de voz (TD-PSOLA) (Kizzy)</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-13/Dreams-0.66.125-dev-13.zip" length="14969619" type="application/octet-stream" sparkle:edSignature="BVlkfI/vC5Sd4pRXaNSBZtelYpsZnjuIaU9brH8sBZy02bo9Mz+65AGgrFUNNrmmF0v49KEwUXTZrvV5CXuECg=="/>
     </item>
   </channel>
 </rss>
