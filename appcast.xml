@@ -6,6 +6,15 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.147</title>
+      <pubDate>Wed, 11 Nov 2026 06:23:54 +0000</pubDate>
+      <sparkle:version>0.66.147.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.147</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Áudio: buffer e taxa direto no driver, taxa do projeto sincronizada com a placa, canais agrupados (Analógicas/ADAT/S/PDIF), desconexão sem alarme falso ao trocar a taxa</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.147/Dreams-0.66.147.zip" length="38138969" type="application/octet-stream" sparkle:edSignature="BSHfAhp7EuEqSxF87+pOZed/Q3dhk/jV0ct9sSWWXYrMVnOhV6m6O41F2HNyOrag7OO7VffWLPXYvGgWAQ75Ag=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.146</title>
       <pubDate>Wed, 11 Nov 2026 04:34:21 +0000</pubDate>
       <sparkle:version>0.66.146.9999</sparkle:version>
@@ -220,15 +229,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Love Tune novo: o coração acende em rosa quando a voz está afinada e fica roxo quando sai da nota; tela limpa com Retune Speed, Humanize e Flex Tune, o resto na engrenagem. O botão de loop saiu da barra de cima (⌘L continua).</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.117/Dreams-0.66.117.zip" length="37131071" type="application/octet-stream" sparkle:edSignature="AkVQtfjEBXXWBImX/6HbcRjhY8iu4Fht1Au2kH5w/e7bK65dIOIcJxG11M5ae1SU8CdklARaNSyBZatHL+9JCw=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.116</title>
-      <pubDate>Thu, 29 Oct 2026 00:23:30 +0000</pubDate>
-      <sparkle:version>0.66.116.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.116</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Channel Rack na ordem do FL: botão do nome, knobs compactos, steps que acendem inteiros e piscam no tempo da música. Clique direito abre menus no step, no canal e na área vazia.</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.116/Dreams-0.66.116.zip" length="37117828" type="application/octet-stream" sparkle:edSignature="DXhWX6fLcmq6kci+Mjku6NRJmL//9i8X4uAULkm9cHxCpj0GXlhdO+5fBkrdz1osWpbG6Rx5Ai75AiuzuJolDA=="/>
     </item>
   </channel>
 </rss>
