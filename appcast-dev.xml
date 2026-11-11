@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.145</title>
+      <pubDate>Wed, 11 Nov 2026 04:16:23 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.145.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.145</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Interfaces de áudio: até 64 entradas/32 saídas, saída direta para 3/4/ADAT por track, desconectar sem travar com áudio padrão e reconexão automática, taxa definida pela placa</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.145/Dreams-0.66.145.zip" length="38072711" type="application/octet-stream" sparkle:edSignature="G7ZSk5etYdHE9VGaUXHvkfz76SXH+WGmQwv86lskkD15Mi2B1WMKqqE0hPdK3Kpo4uUlxbVt6+yNOGoO+nU3Dg=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.144</title>
       <pubDate>Wed, 11 Nov 2026 03:40:53 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Sampler do one-shot: uma interface só (editor novo com abas, onda e teclado de verdade); o mixer não lista mais o sampler em DEVICES</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.128/Dreams-0.66.128.zip" length="37404388" type="application/octet-stream" sparkle:edSignature="4v2X8eVcOoPPcs1ZW/4KLrpwWuTBGmILJDoIBi0beIG3cia2vQqU64Enj1loKBz5MCtYh/vrhguSO80mlusRBg=="/>
-    </item>
-    <item>
-      <title>Kizzy: Dreams 0.66.127: Afinador Nota a Nota com visual novo e prévia sempre ligada</title>
-      <pubDate>Sat, 31 Oct 2026 03:28:47 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.126.14</sparkle:version>
-      <sparkle:shortVersionString>0.66.126 dev 14</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Dreams 0.66.127: Afinador Nota a Nota com visual novo e prévia sempre ligada (Kizzy)</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-14/Dreams-0.66.126-dev-14.zip" length="14975398" type="application/octet-stream" sparkle:edSignature="4tzGwZ1+/VOdRSFXjPd5ufTmdojGEwXo791FGbh+7ruF6No6hzNIVNSZ+iRbVq6KGU322w+vW2viwi79NjKEBA=="/>
     </item>
   </channel>
 </rss>
