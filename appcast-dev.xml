@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.146</title>
+      <pubDate>Wed, 11 Nov 2026 04:34:21 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.146.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.146</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Piano Roll e Channel Rack fluidos ao rolar (quadros atrasados 54% -&gt; 2% e 49% -&gt; 1%); Área de Trabalho ainda mais lisa</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.146/Dreams-0.66.146.zip" length="38090981" type="application/octet-stream" sparkle:edSignature="Q+pjA8cyqYmEyKcBNAHRvzFxYzRLqDBnnFmIwYyUY+V99VldFKPhPWjpR5XldDlP4Eqqq/aW3DBXo1aOBYawBg=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.145</title>
       <pubDate>Wed, 11 Nov 2026 04:16:23 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Dreams 0.66.128: Sampler do one-shot com uma interface só e editor novo (Kizzy)</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-15/Dreams-0.66.127-dev-15.zip" length="14999117" type="application/octet-stream" sparkle:edSignature="o8Pr1ssUx7tiKMr7ak6fouhRsf4b2qDWzTPaWNFmFgA/XRvVDd5R18sLI+fCYdpH0XZG4EwYvfX7tXi8d7rSCw=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.128</title>
-      <pubDate>Sat, 31 Oct 2026 04:36:11 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.128.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.128</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Sampler do one-shot: uma interface só (editor novo com abas, onda e teclado de verdade); o mixer não lista mais o sampler em DEVICES</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.128/Dreams-0.66.128.zip" length="37404388" type="application/octet-stream" sparkle:edSignature="4v2X8eVcOoPPcs1ZW/4KLrpwWuTBGmILJDoIBi0beIG3cia2vQqU64Enj1loKBz5MCtYh/vrhguSO80mlusRBg=="/>
     </item>
   </channel>
 </rss>

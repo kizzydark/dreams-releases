@@ -6,6 +6,15 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.146</title>
+      <pubDate>Wed, 11 Nov 2026 04:34:21 +0000</pubDate>
+      <sparkle:version>0.66.146.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.146</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Piano Roll e Channel Rack fluidos ao rolar (quadros atrasados 54% -&gt; 2% e 49% -&gt; 1%); Área de Trabalho ainda mais lisa</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.146/Dreams-0.66.146.zip" length="38090981" type="application/octet-stream" sparkle:edSignature="Q+pjA8cyqYmEyKcBNAHRvzFxYzRLqDBnnFmIwYyUY+V99VldFKPhPWjpR5XldDlP4Eqqq/aW3DBXo1aOBYawBg=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.145</title>
       <pubDate>Wed, 11 Nov 2026 04:16:23 +0000</pubDate>
       <sparkle:version>0.66.145.9999</sparkle:version>
@@ -220,15 +229,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Channel Rack na ordem do FL: botão do nome, knobs compactos, steps que acendem inteiros e piscam no tempo da música. Clique direito abre menus no step, no canal e na área vazia.</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.116/Dreams-0.66.116.zip" length="37117828" type="application/octet-stream" sparkle:edSignature="DXhWX6fLcmq6kci+Mjku6NRJmL//9i8X4uAULkm9cHxCpj0GXlhdO+5fBkrdz1osWpbG6Rx5Ai75AiuzuJolDA=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.115</title>
-      <pubDate>Wed, 28 Oct 2026 23:51:50 +0000</pubDate>
-      <sparkle:version>0.66.115.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.115</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Biblioteca: → abre a pasta e entra nela, ← recolhe a pasta onde você está. Tracks com 100 px fixos. Love Tune: o coração neon gigante que se mexe como a waveform da voz.</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.115/Dreams-0.66.115.zip" length="37073840" type="application/octet-stream" sparkle:edSignature="bvPFe2Vx9+RmhhXgzwFyBdCBB5EcgXC8sNvRf0njHLIsCIcfx7rnYAVOk9XuUYpUBcfPxc7sjbktTuSsqNkvDw=="/>
     </item>
   </channel>
 </rss>
