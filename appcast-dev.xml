@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.144</title>
+      <pubDate>Wed, 11 Nov 2026 03:40:53 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.144.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.144</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Fluidez: rolar e zoom da Área de Trabalho ~2x mais fluidos (imagem retida), medidores e animações no ritmo do monitor, texto/fontes/knobs em cache, autosave fora da thread da interface</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.144/Dreams-0.66.144.zip" length="38039182" type="application/octet-stream" sparkle:edSignature="Zk6yIAXQu40Y8f8OMCNBQ7ndQUEGWUi02KkP+GRITaHuHZKn+R1qRhX2g8kMPWTM4eFRSz30Odrmb9I4rl3SBw=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.143</title>
       <pubDate>Tue, 10 Nov 2026 21:03:59 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Dreams 0.66.127: Afinador Nota a Nota com visual novo e prévia sempre ligada (Kizzy)</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-14/Dreams-0.66.126-dev-14.zip" length="14975398" type="application/octet-stream" sparkle:edSignature="4tzGwZ1+/VOdRSFXjPd5ufTmdojGEwXo791FGbh+7ruF6No6hzNIVNSZ+iRbVq6KGU322w+vW2viwi79NjKEBA=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.127</title>
-      <pubDate>Sat, 31 Oct 2026 03:28:35 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.127.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.127</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Afinador Nota a Nota com visual novo; a prévia afinada toca sozinha enquanto você edita</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.127/Dreams-0.66.127.zip" length="37358164" type="application/octet-stream" sparkle:edSignature="fScl5Gj4MnPK8DU24B/r7zQ8ch+3BUgTqCNgDgPL6KIubbQCWw6jMaFCVmlKMn3KuAGUgl65Yzjluw3OW2J/Cg=="/>
     </item>
   </channel>
 </rss>
