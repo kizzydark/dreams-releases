@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.155</title>
+      <pubDate>Thu, 12 Nov 2026 22:38:56 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.155.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.155</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Áudio no Intel: Saturator e Reverb ~40% mais leves (mesmo som) e fim do travamento de 1 s com 8 threads</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.155/Dreams-0.66.155.zip" length="38320888" type="application/octet-stream" sparkle:edSignature="B0JdHsc2XxGIHzfJ/DZno1G++PsbyjJ4OWzTsKQHvHdpYWBWveYz/H2kN0oljgqsePQywp8YmvMuICumys6pCg=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.154</title>
       <pubDate>Thu, 12 Nov 2026 17:39:13 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Dreams 0.66.133: grade por cima dos clips, Solo isola na hora e one-shot sem abrir o Sampler (Kizzy)</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-20/Dreams-0.66.132-dev-20.zip" length="15110291" type="application/octet-stream" sparkle:edSignature="/w4rpp35lycqfWQBtKMqbiOA4kEdAuHvf575Ijg7fKwhUhnECsBB09YQQTO7mzHrVjOj0dKGD3Cpi3tuDCL3AA=="/>
-    </item>
-    <item>
-      <title>Kizzy: Dreams 0.66.132: Nova pista com 5 tipos, menus pesquisáveis e pop-up rápido</title>
-      <pubDate>Sat, 31 Oct 2026 06:25:33 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.131.19</sparkle:version>
-      <sparkle:shortVersionString>0.66.131 dev 19</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Dreams 0.66.132: Nova pista com 5 tipos, menus pesquisáveis e pop-up rápido (Kizzy)</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-19/Dreams-0.66.131-dev-19.zip" length="15107610" type="application/octet-stream" sparkle:edSignature="av0r08x8r/rIr2TQSPY/jRH5I9hGqlUg/HD2iv/b/afyneSv4n5fv4m1z0YY+NLICfWcC4WV4//K5GC8K1sdDg=="/>
     </item>
   </channel>
 </rss>
