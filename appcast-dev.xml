@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.151</title>
+      <pubDate>Thu, 12 Nov 2026 05:47:38 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.151.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.151</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Áudio: as threads extras do multinúcleo também desligam os denormais (no Intel, isso evita picos de CPU em caudas de reverb e em plugins de terceiros). Em Configurações &gt; Áudio, agora dá para escolher também os núcleos lógicos (Hyper-Threading).</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.151/Dreams-0.66.151.zip" length="38241130" type="application/octet-stream" sparkle:edSignature="SJYg7VdWpyNHyK4dFriC6MRdhHA7dsELR8B6YZobYcv+5X/7oQtURHYYvatDqPkCGdAv1x9aq/yiaiPpptVICA=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.150</title>
       <pubDate>Thu, 12 Nov 2026 05:15:48 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Sampler do one-shot: acha o sample que mudou de lugar, mostra Sample não encontrado com Localizar, Trocar sample no desfazer, Arquivo &gt; Salvar e coletar samples</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.131/Dreams-0.66.131.zip" length="37542574" type="application/octet-stream" sparkle:edSignature="G1JCU8WhnaKBEY1OSJWPzXU6ZKgh2C/LgGcNEHDBmVKknA84CwcllbdWomzWHclZFVU+k1Th/iuq4p8K5nbQBA=="/>
-    </item>
-    <item>
-      <title>Kizzy: Dreams 0.66.130: sample do Browser carrega no canal Sampler vazio</title>
-      <pubDate>Sat, 31 Oct 2026 05:23:35 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.127.17</sparkle:version>
-      <sparkle:shortVersionString>0.66.127 dev 17</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Dreams 0.66.130: sample do Browser carrega no canal Sampler vazio (Kizzy)</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-17/Dreams-0.66.127-dev-17.zip" length="15041347" type="application/octet-stream" sparkle:edSignature="b4yboyICJVyQLcYzM4fp0pVswRxaHDOZMzXtFGmCFGXkFjTYdiT+pWZs+xjcBmdxatciv73KBZ3fOtUiNQodBw=="/>
     </item>
   </channel>
 </rss>
