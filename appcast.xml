@@ -6,6 +6,15 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.156</title>
+      <pubDate>Thu, 12 Nov 2026 23:34:20 +0000</pubDate>
+      <sparkle:version>0.66.156.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.156</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Áudio no Intel: menos estouros com multinúcleo (a thread de áudio não perde mais prioridade ao esperar)</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.156/Dreams-0.66.156.zip" length="38321455" type="application/octet-stream" sparkle:edSignature="nimlS1unmh1w7mVIbmKICAd3j2l2/XOq7Ay83+QZlkT79eDWAWFJz3K2JiG1VKyogfvMJB3vFRk19ICGcKIFBQ=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.155</title>
       <pubDate>Thu, 12 Nov 2026 22:38:56 +0000</pubDate>
       <sparkle:version>0.66.155.9999</sparkle:version>
@@ -220,15 +229,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Afinador Nota a Nota com motor de voz novo: corrige a altura preservando o timbre (não embola)</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.126/Dreams-0.66.126.zip" length="37352103" type="application/octet-stream" sparkle:edSignature="4bG6vPJQRiE4zqTvt4Ew2pHaguLL+z8riqlhF32iQMbv0aqsOYvtCZxUXorlWamUr8csOWMHeRgkDFvO73sZCA=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.125</title>
-      <pubDate>Sat, 31 Oct 2026 02:34:19 +0000</pubDate>
-      <sparkle:version>0.66.125.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.125</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Afinador Nota a Nota redesenhado: notas coloridas pela afinação, alças de vibrato/transição/volume, inspetor e auto-correção</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.125/Dreams-0.66.125.zip" length="37329895" type="application/octet-stream" sparkle:edSignature="Pqmsqv9CvySbPDPea4XF2B5d8WF37O/7ljLT+yU7vH6Q0lkup6S1Prc9o3qElApc9Uqf696ShIZSnbh3paHuAQ=="/>
     </item>
   </channel>
 </rss>
