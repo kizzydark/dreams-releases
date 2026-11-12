@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.150</title>
+      <pubDate>Thu, 12 Nov 2026 05:15:48 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.150.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.150</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Processamento multinúcleo: as pistas agora são processadas em vários núcleos ao mesmo tempo (como Live e Logic), com o mesmo som de antes, amostra por amostra. Em projeto pesado, o uso do buffer cai para cerca de um terço. Dá para ligar/desligar e escolher os núcleos em Configurações &gt; Áudio.</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.150/Dreams-0.66.150.zip" length="38241119" type="application/octet-stream" sparkle:edSignature="lCwhryvb9EUu3n0kgSWuhyz28/u/VKHhA1/28snvhYkOVABKuI1koJYCwyvhmgq3gW0ND2GmyGm21cGuz+GzAw=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.149</title>
       <pubDate>Thu, 12 Nov 2026 04:31:41 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Dreams 0.66.130: sample do Browser carrega no canal Sampler vazio (Kizzy)</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-17/Dreams-0.66.127-dev-17.zip" length="15041347" type="application/octet-stream" sparkle:edSignature="b4yboyICJVyQLcYzM4fp0pVswRxaHDOZMzXtFGmCFGXkFjTYdiT+pWZs+xjcBmdxatciv73KBZ3fOtUiNQodBw=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.130</title>
-      <pubDate>Sat, 31 Oct 2026 05:22:27 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.130.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.130</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Sample do Browser carrega no canal Sampler vazio selecionado; + Sampler já abre o Carregar</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.130/Dreams-0.66.130.zip" length="37491455" type="application/octet-stream" sparkle:edSignature="y8RGErI/j+0juKnzIbuIm1z4ZQASpGVanI8IWyxMvO1Vskaf+QPbMIcZgskT5I1yEJ7/q5UPRY1OvJTae+xHAQ=="/>
     </item>
   </channel>
 </rss>
