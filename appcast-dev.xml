@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.152</title>
+      <pubDate>Thu, 12 Nov 2026 06:43:32 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.152.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.152</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Áudio mais leve e mais seguro: Saturator e Reverb gastam 35 a 65% menos CPU com o mesmo som (no Intel a diferença é maior); multinúcleo automático usa Hyper-Threading no Intel; novo indicador de carga de áudio na barra (ao lado do buffer), com dicas e atalho para congelar a pista mais pesada; quando um bloco atrasa, o som volta em fade-in em vez de estalar, e um plugin com defeito nunca solta ruído.</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.152/Dreams-0.66.152.zip" length="38271004" type="application/octet-stream" sparkle:edSignature="wnvOkhI2VhSDd8KXRNPJfGGgiM+yXglb+2luO3Tx0lsFXQ0qMoBgDUVl0bmeYEszhn6XlXtdD3LZejqPI+J6Cw=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.151</title>
       <pubDate>Thu, 12 Nov 2026 05:47:38 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Dreams 0.66.131: o Sampler do one-shot acha o sample ou explica o que falta (Kizzy)</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-18/Dreams-0.66.130-dev-18.zip" length="15065848" type="application/octet-stream" sparkle:edSignature="MIOR3Zsr10SckIgNGRgufO71tlNeUbvYMyk65oG9o1fFt2uycP+WKC9iDyJCkIfIv7G5OeROIoRM4hv9y1DADA=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.131</title>
-      <pubDate>Sat, 31 Oct 2026 05:42:47 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.131.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.131</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Sampler do one-shot: acha o sample que mudou de lugar, mostra Sample não encontrado com Localizar, Trocar sample no desfazer, Arquivo &gt; Salvar e coletar samples</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.131/Dreams-0.66.131.zip" length="37542574" type="application/octet-stream" sparkle:edSignature="G1JCU8WhnaKBEY1OSJWPzXU6ZKgh2C/LgGcNEHDBmVKknA84CwcllbdWomzWHclZFVU+k1Th/iuq4p8K5nbQBA=="/>
     </item>
   </channel>
 </rss>

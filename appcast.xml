@@ -6,6 +6,15 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.152</title>
+      <pubDate>Thu, 12 Nov 2026 06:43:32 +0000</pubDate>
+      <sparkle:version>0.66.152.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.152</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Áudio mais leve e mais seguro: Saturator e Reverb gastam 35 a 65% menos CPU com o mesmo som (no Intel a diferença é maior); multinúcleo automático usa Hyper-Threading no Intel; novo indicador de carga de áudio na barra (ao lado do buffer), com dicas e atalho para congelar a pista mais pesada; quando um bloco atrasa, o som volta em fade-in em vez de estalar, e um plugin com defeito nunca solta ruído.</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.152/Dreams-0.66.152.zip" length="38271004" type="application/octet-stream" sparkle:edSignature="wnvOkhI2VhSDd8KXRNPJfGGgiM+yXglb+2luO3Tx0lsFXQ0qMoBgDUVl0bmeYEszhn6XlXtdD3LZejqPI+J6Cw=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.151</title>
       <pubDate>Thu, 12 Nov 2026 05:47:38 +0000</pubDate>
       <sparkle:version>0.66.151.9999</sparkle:version>
@@ -220,15 +229,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Detector de BPM treinado com mais 199 músicas; loops curtos detectados pelo tamanho</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.122/Dreams-0.66.122.zip" length="37279435" type="application/octet-stream" sparkle:edSignature="t3jlpRfYifZufv0QT439KwYiCB1YtAaSDWFzBdQ1Ns1N6/Vq5Dtns7rJRAaWpLgQ1/GCiG5efixK9fwfwWFLCA=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.121</title>
-      <pubDate>Thu, 29 Oct 2026 23:11:13 +0000</pubDate>
-      <sparkle:version>0.66.121.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.121</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Grid da Área de Trabalho alterna a cor a cada 2 compassos; Gravação por voz/batucada abre a entrada de áudio sozinha</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.121/Dreams-0.66.121.zip" length="37278591" type="application/octet-stream" sparkle:edSignature="h0+rqzNFMv+YwSXstIj2uxas3AOENqlAJz+BhPGF5Nbr15X92z2Y2wqaW1Y4VHDnMkI5yX80dzcSMXoBBr8iAg=="/>
     </item>
   </channel>
 </rss>
