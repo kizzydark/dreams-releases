@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.160</title>
+      <pubDate>Fri, 13 Nov 2026 02:33:40 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.160.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.160</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Atualizações do Windows com assinatura digital; atualizações automáticas no Windows</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.160/Dreams-0.66.160.zip" length="38369495" type="application/octet-stream" sparkle:edSignature="uNQrygwnKKihL/X9c3V8Tenwd5nPeYCUeQ5RxunVSIrlNUvDjpucT2OMQ+Tec/gA2p4qerJKII151dyF3y1AAA=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.159</title>
       <pubDate>Fri, 13 Nov 2026 02:22:08 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Dreams 0.66.137: colar na track em foco, tecla S, Solo no Return e ON/OFF automatizado (Kizzy)</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-24/Dreams-0.66.133-dev-24.zip" length="15178867" type="application/octet-stream" sparkle:edSignature="DnrKt5MnbkO1MKTbtWSm0hr9G3SMrqRuWO4ApxINlq+v6hxCPxg461A7Wg7mdOY8AYcD5ckfWT4ChlzUoDYbBQ=="/>
-    </item>
-    <item>
-      <title>Kizzy: Dreams 0.66.136: setas na Área de Trabalho</title>
-      <pubDate>Mon, 02 Nov 2026 15:59:40 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.133.23</sparkle:version>
-      <sparkle:shortVersionString>0.66.133 dev 23</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Dreams 0.66.136: setas na Área de Trabalho (Kizzy)</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-23/Dreams-0.66.133-dev-23.zip" length="15173002" type="application/octet-stream" sparkle:edSignature="qYB51y4MKpm4ELSdAMXUKc1iGyyLWeBVNWCyp4IsBApo3gzTjtPbMcianchNxzhILsCutVV0cMOyYP7ZyLsCAg=="/>
     </item>
   </channel>
 </rss>

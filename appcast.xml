@@ -6,6 +6,15 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.160</title>
+      <pubDate>Fri, 13 Nov 2026 02:33:40 +0000</pubDate>
+      <sparkle:version>0.66.160.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.160</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Atualizações do Windows com assinatura digital; atualizações automáticas no Windows</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.160/Dreams-0.66.160.zip" length="38369495" type="application/octet-stream" sparkle:edSignature="uNQrygwnKKihL/X9c3V8Tenwd5nPeYCUeQ5RxunVSIrlNUvDjpucT2OMQ+Tec/gA2p4qerJKII151dyF3y1AAA=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.159</title>
       <pubDate>Fri, 13 Nov 2026 02:22:08 +0000</pubDate>
       <sparkle:version>0.66.159.9999</sparkle:version>
@@ -220,15 +229,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Sample do Browser carrega no canal Sampler vazio selecionado; + Sampler já abre o Carregar</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.130/Dreams-0.66.130.zip" length="37491455" type="application/octet-stream" sparkle:edSignature="y8RGErI/j+0juKnzIbuIm1z4ZQASpGVanI8IWyxMvO1Vskaf+QPbMIcZgskT5I1yEJ7/q5UPRY1OvJTae+xHAQ=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.129</title>
-      <pubDate>Sat, 31 Oct 2026 05:05:56 +0000</pubDate>
-      <sparkle:version>0.66.129.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.129</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Mixer: selecionar, arrastar entre canais e copiar/colar devices; duplo clique abre o plugin</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.129/Dreams-0.66.129.zip" length="37474499" type="application/octet-stream" sparkle:edSignature="dES5wZ+HHbu8ZUT0hBrViSFO+DTkj7FuxGMPsUfl6pmGFZ56j3G1mbRIyw17c9mnk/+Gu7OLw9oOYR45nzHdAQ=="/>
     </item>
   </channel>
 </rss>
