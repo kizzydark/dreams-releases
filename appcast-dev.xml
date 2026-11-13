@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.162</title>
+      <pubDate>Fri, 13 Nov 2026 04:33:32 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.162.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.162</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Áudio → MIDI funciona com áudio mono, clipes com warp e transposição</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.162/Dreams-0.66.162.zip" length="38501504" type="application/octet-stream" sparkle:edSignature="k0k9rc1XL/PWrbf6tQWjCC7iYokza1sqIy0t0wV4pcEHe1xVuvPbQkjJ0pYdjQ0Lo1NMUjj7+vQDvpfu8vvZCQ=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.161</title>
       <pubDate>Fri, 13 Nov 2026 03:23:45 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Sidechain no menu do device (VST/AU também); seleção ⌘/Shift e grupos de VSTs; setas na Área de Trabalho; colar na track em foco, tecla S, Solo no Return; dica do Mixer mais leve; grupos e reordenar canais no Mixer</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.139/Dreams-0.66.139.zip" length="37792747" type="application/octet-stream" sparkle:edSignature="rj/NoAEQdsivNIQI5rpfznhVsO/0NIexnhQniTzYrbs0vzFPSLcYx5ebbv0jZsV53/a6Z+DVV1EZTe6BEgkYBA=="/>
-    </item>
-    <item>
-      <title>Kizzy: Dreams 0.66.138: dica do volume do Mixer mais leve</title>
-      <pubDate>Mon, 02 Nov 2026 16:19:25 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.133.25</sparkle:version>
-      <sparkle:shortVersionString>0.66.133 dev 25</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Dreams 0.66.138: dica do volume do Mixer mais leve (Kizzy)</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-25/Dreams-0.66.133-dev-25.zip" length="15179104" type="application/octet-stream" sparkle:edSignature="u8BQIaxnEPpNlO1uWA6RtXOuYwgJnRuhHz7ksTMp4q4VJnuBseXb2xHR09hcZYIBp5n4LAHbV+eW2jkcAToIAA=="/>
     </item>
   </channel>
 </rss>
