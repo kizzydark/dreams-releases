@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.163</title>
+      <pubDate>Fri, 13 Nov 2026 05:10:21 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.163.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.163</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Converter em MIDI: harmonia, melodia e bateria (nova), como no Live 12</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.163/Dreams-0.66.163.zip" length="38523171" type="application/octet-stream" sparkle:edSignature="59Vz8GXVHQn88eh5JmqntfBFVGPyF9HmqQEV5TOHlZorDVqDHujfq5SMsYkEVyPCUcyF0HtMRGHyBy5p8syYAg=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.162</title>
       <pubDate>Fri, 13 Nov 2026 04:33:32 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Dreams 0.66.139: grupos de canais e arrastar para reordenar no Mixer (Kizzy)</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-26/Dreams-0.66.133-dev-26.zip" length="15192302" type="application/octet-stream" sparkle:edSignature="yYYBwEHX0Joz2xbvKhU9G3qTs9vVYeUe81eZte+/biSL+CtonoEBsNfr1PrNQWEgVLntwDZlvYv1zUlkyh/oBA=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.139</title>
-      <pubDate>Mon, 02 Nov 2026 16:26:28 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.139.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.139</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Sidechain no menu do device (VST/AU também); seleção ⌘/Shift e grupos de VSTs; setas na Área de Trabalho; colar na track em foco, tecla S, Solo no Return; dica do Mixer mais leve; grupos e reordenar canais no Mixer</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.139/Dreams-0.66.139.zip" length="37792747" type="application/octet-stream" sparkle:edSignature="rj/NoAEQdsivNIQI5rpfznhVsO/0NIexnhQniTzYrbs0vzFPSLcYx5ebbv0jZsV53/a6Z+DVV1EZTe6BEgkYBA=="/>
     </item>
   </channel>
 </rss>
