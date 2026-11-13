@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.165</title>
+      <pubDate>Fri, 13 Nov 2026 05:48:14 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.165.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.165</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Windows: o BPM não volta mais sozinho para 120</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.165/Dreams-0.66.165.zip" length="38527492" type="application/octet-stream" sparkle:edSignature="Iva2cyT6aioU0lGWQgR4Mc9xbvKIyI+xK7vi01tgEno6TjkTWhcO2SgbnlwI96J9BO9BnQ7lsusk8V962vWuBg=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.164</title>
       <pubDate>Fri, 13 Nov 2026 05:37:21 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Dreams 0.66.140: navegação estilo Live na Área de Trabalho (Kizzy)</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-27/Dreams-0.66.139-dev-27.zip" length="15206128" type="application/octet-stream" sparkle:edSignature="JUnDy2ClhDebsNa81wdYgdVtk82twe7a/GlaZjh66xW05a6rv01qoS8QsvE60kIZGAe1TLwEwDxjFQqGVsy6BA=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.140</title>
-      <pubDate>Mon, 02 Nov 2026 20:06:40 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.140.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.140</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Navegação estilo Live: clique só posiciona, régua com scrub, Shift+setas estendem a seleção, ⌘4 liga/desliga a grade, setas no cabeçalho abrem/fecham grupos</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.140/Dreams-0.66.140.zip" length="37817492" type="application/octet-stream" sparkle:edSignature="2eFEygVIuOCkFWakIFGeAD4wtuKaldc6S7vrme7JZr4REXLxQXMDZ6Kgjqu2U2sC6TLVqBfdKzSB4d7m04OJDA=="/>
     </item>
   </channel>
 </rss>
