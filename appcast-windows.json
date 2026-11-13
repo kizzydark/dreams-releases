@@ -1,0 +1,13 @@
+{
+ "items": [
+  {
+   "version": "0.66.160",
+   "url": "https://github.com/kizzydark/dreams-releases/releases/download/v0.66.160/DreamsSetup-0.66.160.exe",
+   "sha256": "031ba570451128dadc8619f5ac56736c42c65da367a29648f8b60cc29e45442b",
+   "length": 9284293,
+   "date": "12/11/2026 23:47",
+   "notes": "Atualizações do Windows com assinatura digital; atualizações automáticas no Windows",
+   "signature": "bT+Wryo8rBT4zzdOA2lPa71VSugel+KCbsePdHnjSHqBWQVbLqIADX8QxaTalzuWgwJT7GCoUfsKAU2LG7k3Ng=="
+  }
+ ]
+}
