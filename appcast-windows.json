@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "version": "0.66.162",
+   "url": "https://github.com/kizzydark/dreams-releases/releases/download/v0.66.162/DreamsSetup-0.66.162.exe",
+   "sha256": "cc5c8618dc0600fd9923e2a691cbcfb12e4afee29bf3ef91e01fb0eb6b869353",
+   "length": 9303704,
+   "date": "13/11/2026 01:46",
+   "notes": "Áudio → MIDI funciona com áudio mono, clipes com warp e transposição",
+   "signature": "fvkpfUEahpGsKiHZl1jCk+OXgCjNhQ9LC+ZMw0Cjh6Y1kHbUOzEB3rQu6VWA3XBa6kUR+/9C9+L3Yq1rWSMjEw=="
+  },
+  {
    "version": "0.66.161",
    "url": "https://github.com/kizzydark/dreams-releases/releases/download/v0.66.161/DreamsSetup-0.66.161.exe",
    "sha256": "c23f84f120d27abc8915a625d839a005b9c4b0694e83f4501d323d0d3ed36764",
