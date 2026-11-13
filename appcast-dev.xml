@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.161</title>
+      <pubDate>Fri, 13 Nov 2026 03:23:45 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.161.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.161</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Licença por chave de acesso no Windows (no Mac nada muda)</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.161/Dreams-0.66.161.zip" length="38493711" type="application/octet-stream" sparkle:edSignature="OenlKjvXO++9BIZD5WeTEHSndHZkNXtOhXuhdEHiWrIleebtp6ll9kQ0IkFlM5ZPY6B/nACVEH/4mlr7+LqKAw=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.160</title>
       <pubDate>Fri, 13 Nov 2026 02:33:40 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Dreams 0.66.138: dica do volume do Mixer mais leve (Kizzy)</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-25/Dreams-0.66.133-dev-25.zip" length="15179104" type="application/octet-stream" sparkle:edSignature="u8BQIaxnEPpNlO1uWA6RtXOuYwgJnRuhHz7ksTMp4q4VJnuBseXb2xHR09hcZYIBp5n4LAHbV+eW2jkcAToIAA=="/>
-    </item>
-    <item>
-      <title>Kizzy: Dreams 0.66.137: colar na track em foco, tecla S, Solo no Return e ON/OFF automatizado</title>
-      <pubDate>Mon, 02 Nov 2026 16:07:38 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.133.24</sparkle:version>
-      <sparkle:shortVersionString>0.66.133 dev 24</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Dreams 0.66.137: colar na track em foco, tecla S, Solo no Return e ON/OFF automatizado (Kizzy)</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-24/Dreams-0.66.133-dev-24.zip" length="15178867" type="application/octet-stream" sparkle:edSignature="DnrKt5MnbkO1MKTbtWSm0hr9G3SMrqRuWO4ApxINlq+v6hxCPxg461A7Wg7mdOY8AYcD5ckfWT4ChlzUoDYbBQ=="/>
     </item>
   </channel>
 </rss>
