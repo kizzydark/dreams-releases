@@ -6,6 +6,15 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.158</title>
+      <pubDate>Fri, 13 Nov 2026 01:41:52 +0000</pubDate>
+      <sparkle:version>0.66.158.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.158</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Plugins nativos mais leves (Limiter -44%, Filter -50%, Phaser -37%, Chorus -23% no Intel), plugin danificado não derruba mais o Dreams, pré-render automático opcional</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.158/Dreams-0.66.158.zip" length="38369038" type="application/octet-stream" sparkle:edSignature="fD6IZdFgza5xRevrhLFQT3iWY9YwmOBYxBvjDC8/SA9559R68M0bclXTPkwc7BKp8Uqm2RvJBhMWaSjMY3IRCg=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.157</title>
       <pubDate>Thu, 12 Nov 2026 23:56:03 +0000</pubDate>
       <sparkle:version>0.66.157.9999</sparkle:version>
@@ -220,15 +229,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Sampler do one-shot: uma interface só (editor novo com abas, onda e teclado de verdade); o mixer não lista mais o sampler em DEVICES</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.128/Dreams-0.66.128.zip" length="37404388" type="application/octet-stream" sparkle:edSignature="4v2X8eVcOoPPcs1ZW/4KLrpwWuTBGmILJDoIBi0beIG3cia2vQqU64Enj1loKBz5MCtYh/vrhguSO80mlusRBg=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.127</title>
-      <pubDate>Sat, 31 Oct 2026 03:28:35 +0000</pubDate>
-      <sparkle:version>0.66.127.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.127</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Afinador Nota a Nota com visual novo; a prévia afinada toca sozinha enquanto você edita</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.127/Dreams-0.66.127.zip" length="37358164" type="application/octet-stream" sparkle:edSignature="fScl5Gj4MnPK8DU24B/r7zQ8ch+3BUgTqCNgDgPL6KIubbQCWw6jMaFCVmlKMn3KuAGUgl65Yzjluw3OW2J/Cg=="/>
     </item>
   </channel>
 </rss>

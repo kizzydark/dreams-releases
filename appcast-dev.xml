@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.158</title>
+      <pubDate>Fri, 13 Nov 2026 01:41:52 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.158.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.158</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Plugins nativos mais leves (Limiter -44%, Filter -50%, Phaser -37%, Chorus -23% no Intel), plugin danificado não derruba mais o Dreams, pré-render automático opcional</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.158/Dreams-0.66.158.zip" length="38369038" type="application/octet-stream" sparkle:edSignature="fD6IZdFgza5xRevrhLFQT3iWY9YwmOBYxBvjDC8/SA9559R68M0bclXTPkwc7BKp8Uqm2RvJBhMWaSjMY3IRCg=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.157</title>
       <pubDate>Thu, 12 Nov 2026 23:56:03 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Dreams 0.66.135: seleção com ⌘/Shift no Devices e grupos de VSTs (rack) (Kizzy)</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-22/Dreams-0.66.132-dev-22.zip" length="15161901" type="application/octet-stream" sparkle:edSignature="37fYt0tm/qPg1ez2GSEER5Hy1ZQOZaUMva+MOC5ekJ3g4P3KwzJu6I99gbj1ulNVeVE61ZYZkzL+McFbqvzCDg=="/>
-    </item>
-    <item>
-      <title>Kizzy: Dreams 0.66.134: Sidechain no menu dos 3 pontinhos do device (e VST/AU recebem o sinal)</title>
-      <pubDate>Mon, 02 Nov 2026 15:45:45 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.132.21</sparkle:version>
-      <sparkle:shortVersionString>0.66.132 dev 21</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Dreams 0.66.134: Sidechain no menu dos 3 pontinhos do device (e VST/AU recebem o sinal) (Kizzy)</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-21/Dreams-0.66.132-dev-21.zip" length="15117868" type="application/octet-stream" sparkle:edSignature="tJx4qLESV+GDEyw+ud34JcQDvdKPlTEPmw2MvUnShiSDXuJeLcPOJMa+7+0SnrtYnX5pukbOmPIiqtOO6fuLDA=="/>
     </item>
   </channel>
 </rss>
