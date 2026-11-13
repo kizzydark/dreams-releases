@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.164</title>
+      <pubDate>Fri, 13 Nov 2026 05:37:21 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.164.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.164</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Knob analógico e fundo de metal escovado em todos os plugins nativos</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.164/Dreams-0.66.164.zip" length="38527847" type="application/octet-stream" sparkle:edSignature="XkJvOQvygquKlWEVT2mNlKjM/UvY+wHa248QB1E982XNUtvM03yQP2YLorR8P3wH0xb6CraDGpeQzYnEC7tpBA=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.163</title>
       <pubDate>Fri, 13 Nov 2026 05:10:21 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Navegação estilo Live: clique só posiciona, régua com scrub, Shift+setas estendem a seleção, ⌘4 liga/desliga a grade, setas no cabeçalho abrem/fecham grupos</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.140/Dreams-0.66.140.zip" length="37817492" type="application/octet-stream" sparkle:edSignature="2eFEygVIuOCkFWakIFGeAD4wtuKaldc6S7vrme7JZr4REXLxQXMDZ6Kgjqu2U2sC6TLVqBfdKzSB4d7m04OJDA=="/>
-    </item>
-    <item>
-      <title>Kizzy: Dreams 0.66.139: grupos de canais e arrastar para reordenar no Mixer</title>
-      <pubDate>Mon, 02 Nov 2026 16:27:08 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.133.26</sparkle:version>
-      <sparkle:shortVersionString>0.66.133 dev 26</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Dreams 0.66.139: grupos de canais e arrastar para reordenar no Mixer (Kizzy)</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/dev-26/Dreams-0.66.133-dev-26.zip" length="15192302" type="application/octet-stream" sparkle:edSignature="yYYBwEHX0Joz2xbvKhU9G3qTs9vVYeUe81eZte+/biSL+CtonoEBsNfr1PrNQWEgVLntwDZlvYv1zUlkyh/oBA=="/>
     </item>
   </channel>
 </rss>
