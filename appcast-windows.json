@@ -1,6 +1,15 @@
 {
  "items": [
   {
+   "version": "0.66.161",
+   "url": "https://github.com/kizzydark/dreams-releases/releases/download/v0.66.161/DreamsSetup-0.66.161.exe",
+   "sha256": "c23f84f120d27abc8915a625d839a005b9c4b0694e83f4501d323d0d3ed36764",
+   "length": 9301494,
+   "date": "13/11/2026 01:26",
+   "notes": "Licença por chave de acesso no Windows (no Mac nada muda)",
+   "signature": "02y0f1VtG5+Plyd9KHuJsvaQ2WtME7sxJE/lXJ8j0Bf0jxUNNFJXFTNmpiejCu0DyfyBlKhCJ7NQvKyaZHC4HA=="
+  },
+  {
    "version": "0.66.160",
    "url": "https://github.com/kizzydark/dreams-releases/releases/download/v0.66.160/DreamsSetup-0.66.160.exe",
    "sha256": "031ba570451128dadc8619f5ac56736c42c65da367a29648f8b60cc29e45442b",
