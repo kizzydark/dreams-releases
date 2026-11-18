@@ -6,6 +6,15 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.169</title>
+      <pubDate>Wed, 18 Nov 2026 02:51:38 +0000</pubDate>
+      <sparkle:version>0.66.169.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.169</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Base dos scripts de controlador (Control Surfaces): roda numa thread própria, fora da interface; botão até a ação em menos de 1 ms. Session Box laranja na Session mostra o que o controlador está vendo. Controladores reconectam sozinhos.</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.169/Dreams-0.66.169.zip" length="38905728" type="application/octet-stream" sparkle:edSignature="kV9i7v2jqbC1V8tyz+wfVK6K3MdqJ/62C/+2dEEayM/VSwWS4ZjA9LNFluo9OR0meXyZ0HJQBTD4BoB/PJBwCw=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.168</title>
       <pubDate>Wed, 18 Nov 2026 02:18:46 +0000</pubDate>
       <sparkle:version>0.66.168.9999</sparkle:version>
@@ -220,15 +229,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Interfaces de áudio: até 64 entradas/32 saídas, saída direta para 3/4/ADAT por track, desconectar sem travar com áudio padrão e reconexão automática, taxa definida pela placa</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.145/Dreams-0.66.145.zip" length="38072711" type="application/octet-stream" sparkle:edSignature="G7ZSk5etYdHE9VGaUXHvkfz76SXH+WGmQwv86lskkD15Mi2B1WMKqqE0hPdK3Kpo4uUlxbVt6+yNOGoO+nU3Dg=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.144</title>
-      <pubDate>Wed, 11 Nov 2026 03:40:53 +0000</pubDate>
-      <sparkle:version>0.66.144.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.144</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Fluidez: rolar e zoom da Área de Trabalho ~2x mais fluidos (imagem retida), medidores e animações no ritmo do monitor, texto/fontes/knobs em cache, autosave fora da thread da interface</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.144/Dreams-0.66.144.zip" length="38039182" type="application/octet-stream" sparkle:edSignature="Zk6yIAXQu40Y8f8OMCNBQ7ndQUEGWUi02KkP+GRITaHuHZKn+R1qRhX2g8kMPWTM4eFRSz30Odrmb9I4rl3SBw=="/>
     </item>
   </channel>
 </rss>
