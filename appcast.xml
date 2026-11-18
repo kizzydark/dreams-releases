@@ -6,6 +6,15 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.171</title>
+      <pubDate>Wed, 18 Nov 2026 03:24:32 +0000</pubDate>
+      <sparkle:version>0.66.171.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.171</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Mackie Control (MCU) e extensor XT para SSL 360 (UF8/UC1), X-Touch e afins: faders motorizados, V-Pots, mute/solo/rec, display com nomes, medidores e transporte. HUI básico (faders, botões das strips, nomes e medidores).</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.171/Dreams-0.66.171.zip" length="38997336" type="application/octet-stream" sparkle:edSignature="Qn8idKGYu/i1yMGZG9SG9/6I7EqjO8lcBf8KUzCFb981px9pqC0m5aOtNWZOXw0m8tWDCzNISTJym4G1YLDQCw=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.170</title>
       <pubDate>Wed, 18 Nov 2026 03:08:08 +0000</pubDate>
       <sparkle:version>0.66.170.9999</sparkle:version>
@@ -220,15 +229,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Áudio: buffer e taxa direto no driver, taxa do projeto sincronizada com a placa, canais agrupados (Analógicas/ADAT/S/PDIF), desconexão sem alarme falso ao trocar a taxa</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.147/Dreams-0.66.147.zip" length="38138969" type="application/octet-stream" sparkle:edSignature="BSHfAhp7EuEqSxF87+pOZed/Q3dhk/jV0ct9sSWWXYrMVnOhV6m6O41F2HNyOrag7OO7VffWLPXYvGgWAQ75Ag=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.146</title>
-      <pubDate>Wed, 11 Nov 2026 04:34:21 +0000</pubDate>
-      <sparkle:version>0.66.146.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.146</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Piano Roll e Channel Rack fluidos ao rolar (quadros atrasados 54% -&gt; 2% e 49% -&gt; 1%); Área de Trabalho ainda mais lisa</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.146/Dreams-0.66.146.zip" length="38090981" type="application/octet-stream" sparkle:edSignature="Q+pjA8cyqYmEyKcBNAHRvzFxYzRLqDBnnFmIwYyUY+V99VldFKPhPWjpR5XldDlP4Eqqq/aW3DBXo1aOBYawBg=="/>
     </item>
   </channel>
 </rss>
