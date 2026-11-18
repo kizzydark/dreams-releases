@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.167</title>
+      <pubDate>Wed, 18 Nov 2026 02:01:28 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.167.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.167</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>MIDI em tempo real: notas na amostra certa, gravação no ponto tocado, saída MIDI precisa, botão Gravar/Mixar</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.167/Dreams-0.66.167.zip" length="38668161" type="application/octet-stream" sparkle:edSignature="CBzYrz9RFnWJ0ZsEbRXWoQYHZlf/GJURvqabFkj6E55NtosEyaHCEifWWjxsHwM79G7hCuw4amdpW3spjQQXDQ=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.166</title>
       <pubDate>Wed, 18 Nov 2026 01:28:44 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Configurações &gt; Gravação, Warp e Lançar: formato e bits da gravação, Arm/Solo exclusivos, REC esperando o Play, warp na importação, fades nas pontas, modos de disparo do Session, Tap Tempo dá play</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.143/Dreams-0.66.143.zip" length="37950411" type="application/octet-stream" sparkle:edSignature="bdt0ihaecOYsoiLDnNFKJx9oDipeRQRz3k5WknNaA3iYf3qaFlBBd0PCoyyNBx8/OGrICoI8hg+72tc8MmiwBw=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.142</title>
-      <pubDate>Thu, 05 Nov 2026 21:55:53 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.142.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.142</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Afinador com prévia em memória e Aplicar que grava (corrige o export); Projetos Recentes; clipes transparentes; setas no loop e no cabeçalho; copiar plugins entre tracks</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.142/Dreams-0.66.142.zip" length="37873832" type="application/octet-stream" sparkle:edSignature="CUhF4MyJwRuXgff84uv+DuV71gS9ZVyWTIAqq1zVlV70r7FIyvjqIx471Os5iqbygZdP4MvUj0wQgeKuZPIuCQ=="/>
     </item>
   </channel>
 </rss>
