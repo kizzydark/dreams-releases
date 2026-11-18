@@ -6,6 +6,15 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.170</title>
+      <pubDate>Wed, 18 Nov 2026 03:08:08 +0000</pubDate>
+      <sparkle:version>0.66.170.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.170</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>MIDI Learn mais rápido e completo: o knob mexe no parâmetro na hora (sem esperar a tela), com faixa mínima/máxima, inversão e Takeover. Lista de mapeamentos editável em Configurações &gt; MIDI &amp; Controladores. Novo controlador &#x27;Genérico / MIDI Learn&#x27; devolve os valores para motorfaders e LEDs.</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.170/Dreams-0.66.170.zip" length="38976782" type="application/octet-stream" sparkle:edSignature="esWZUnMtNdKEHD9ewZySOBftTrR0+/pKYGV1yLQe02JqDKZjZujSQyRV/N4HR4c49Ee2IOPwJr4RxHK33XkYDA=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.169</title>
       <pubDate>Wed, 18 Nov 2026 02:51:38 +0000</pubDate>
       <sparkle:version>0.66.169.9999</sparkle:version>
@@ -220,15 +229,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Piano Roll e Channel Rack fluidos ao rolar (quadros atrasados 54% -&gt; 2% e 49% -&gt; 1%); Área de Trabalho ainda mais lisa</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.146/Dreams-0.66.146.zip" length="38090981" type="application/octet-stream" sparkle:edSignature="Q+pjA8cyqYmEyKcBNAHRvzFxYzRLqDBnnFmIwYyUY+V99VldFKPhPWjpR5XldDlP4Eqqq/aW3DBXo1aOBYawBg=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.145</title>
-      <pubDate>Wed, 11 Nov 2026 04:16:23 +0000</pubDate>
-      <sparkle:version>0.66.145.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.145</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Interfaces de áudio: até 64 entradas/32 saídas, saída direta para 3/4/ADAT por track, desconectar sem travar com áudio padrão e reconexão automática, taxa definida pela placa</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.145/Dreams-0.66.145.zip" length="38072711" type="application/octet-stream" sparkle:edSignature="G7ZSk5etYdHE9VGaUXHvkfz76SXH+WGmQwv86lskkD15Mi2B1WMKqqE0hPdK3Kpo4uUlxbVt6+yNOGoO+nU3Dg=="/>
     </item>
   </channel>
 </rss>
