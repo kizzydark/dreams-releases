@@ -6,6 +6,15 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.168</title>
+      <pubDate>Wed, 18 Nov 2026 02:18:46 +0000</pubDate>
+      <sparkle:version>0.66.168.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.168</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Configurações &gt; MIDI &amp; Controladores: portas com Track/Sync/Remote/MPE, filtro de canais, offset do clock, slots de Control Surface e Takeover. Portas novas aparecem sozinhas ao conectar.</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.168/Dreams-0.66.168.zip" length="38761952" type="application/octet-stream" sparkle:edSignature="AMGecgHiIbund9IqetYsK6raF1+5AYR1zVgXJqMNgLSn236jQh8xq5bx+hnIY4c0xllVLhJNic8QiT9NL6zlDg=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.167</title>
       <pubDate>Wed, 18 Nov 2026 02:01:28 +0000</pubDate>
       <sparkle:version>0.66.167.9999</sparkle:version>
@@ -220,15 +229,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Fluidez: rolar e zoom da Área de Trabalho ~2x mais fluidos (imagem retida), medidores e animações no ritmo do monitor, texto/fontes/knobs em cache, autosave fora da thread da interface</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.144/Dreams-0.66.144.zip" length="38039182" type="application/octet-stream" sparkle:edSignature="Zk6yIAXQu40Y8f8OMCNBQ7ndQUEGWUi02KkP+GRITaHuHZKn+R1qRhX2g8kMPWTM4eFRSz30Odrmb9I4rl3SBw=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.143</title>
-      <pubDate>Tue, 10 Nov 2026 21:03:59 +0000</pubDate>
-      <sparkle:version>0.66.143.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.143</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Configurações &gt; Gravação, Warp e Lançar: formato e bits da gravação, Arm/Solo exclusivos, REC esperando o Play, warp na importação, fades nas pontas, modos de disparo do Session, Tap Tempo dá play</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.143/Dreams-0.66.143.zip" length="37950411" type="application/octet-stream" sparkle:edSignature="bdt0ihaecOYsoiLDnNFKJx9oDipeRQRz3k5WknNaA3iYf3qaFlBBd0PCoyyNBx8/OGrICoI8hg+72tc8MmiwBw=="/>
     </item>
   </channel>
 </rss>
