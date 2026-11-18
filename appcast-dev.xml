@@ -6,6 +6,16 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.172</title>
+      <pubDate>Wed, 18 Nov 2026 03:43:49 +0000</pubDate>
+      <sparkle:channel>dev</sparkle:channel>
+      <sparkle:version>0.66.172.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.172</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Sync MIDI: o Dreams manda MIDI Clock, Song Position e MMC para aparelhos externos (jitter abaixo de 0,2 ms) e segue clock de fora com o botão EXT. Novos botões opcionais na barra: Resync e Tempo Follower (BPM acompanha o áudio que entra). Configure em Configurações &gt; MIDI &amp; Controladores &gt; Sync.</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.172/Dreams-0.66.172.zip" length="39049030" type="application/octet-stream" sparkle:edSignature="bp32RpjI950ByQLMlekF/u3B5kvDrvzul55X/wYSF8bCx2w6WonWWFODfn/IZ2v77dyrHwdj0u+NHpaH1rgMCw=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.171</title>
       <pubDate>Wed, 18 Nov 2026 03:24:32 +0000</pubDate>
       <sparkle:channel>dev</sparkle:channel>
@@ -244,16 +254,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Congelar várias pistas não derruba mais o Dreams. Bypass sem travar: liga/desliga com micro-fade de 5 ms e true bypass. Device On/Off automatizável em blocos. Knob Wet (laranja) em todo efeito, automatizável na Main Lane.</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.148/Dreams-0.66.148.zip" length="38191051" type="application/octet-stream" sparkle:edSignature="k4hwAiWYlBO9id+jAdZYTJ9hYk7+5YdqTaOC5Fj8/tyQFmeH3u8skIPTbE1EnzfBRErQumACsd5FQxLs/+qAAg=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.147</title>
-      <pubDate>Wed, 11 Nov 2026 06:23:54 +0000</pubDate>
-      <sparkle:channel>dev</sparkle:channel>
-      <sparkle:version>0.66.147.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.147</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Áudio: buffer e taxa direto no driver, taxa do projeto sincronizada com a placa, canais agrupados (Analógicas/ADAT/S/PDIF), desconexão sem alarme falso ao trocar a taxa</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.147/Dreams-0.66.147.zip" length="38138969" type="application/octet-stream" sparkle:edSignature="BSHfAhp7EuEqSxF87+pOZed/Q3dhk/jV0ct9sSWWXYrMVnOhV6m6O41F2HNyOrag7OO7VffWLPXYvGgWAQ75Ag=="/>
     </item>
   </channel>
 </rss>
