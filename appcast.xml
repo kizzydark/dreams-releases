@@ -6,6 +6,15 @@
     <description>Atualizações do Dreams</description>
     <language>pt-br</language>
     <item>
+      <title>Dreams 0.66.166</title>
+      <pubDate>Wed, 18 Nov 2026 01:28:44 +0000</pubDate>
+      <sparkle:version>0.66.166.9999</sparkle:version>
+      <sparkle:shortVersionString>0.66.166</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>MIDI Spy e painel Desempenho MIDI (Arquivo &gt; Desempenho MIDI e MIDI Spy)</li></ul>]]></description>
+      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.166/Dreams-0.66.166.zip" length="38614607" type="application/octet-stream" sparkle:edSignature="W0BP+JntRpotrDy6vKVq2g77Ljc2KVkgePrEvdqVG0jmdmsxgPZFfzmLPkPZgrZsz6ldIHi1Zng8KcZGFkmvCA=="/>
+    </item>
+    <item>
       <title>Dreams 0.66.165</title>
       <pubDate>Fri, 13 Nov 2026 05:48:14 +0000</pubDate>
       <sparkle:version>0.66.165.9999</sparkle:version>
@@ -220,15 +229,6 @@
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[<ul><li>Afinador com prévia em memória e Aplicar que grava (corrige o export); Projetos Recentes; clipes transparentes; setas no loop e no cabeçalho; copiar plugins entre tracks</li></ul>]]></description>
       <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.142/Dreams-0.66.142.zip" length="37873832" type="application/octet-stream" sparkle:edSignature="CUhF4MyJwRuXgff84uv+DuV71gS9ZVyWTIAqq1zVlV70r7FIyvjqIx471Os5iqbygZdP4MvUj0wQgeKuZPIuCQ=="/>
-    </item>
-    <item>
-      <title>Dreams 0.66.140</title>
-      <pubDate>Mon, 02 Nov 2026 20:06:40 +0000</pubDate>
-      <sparkle:version>0.66.140.9999</sparkle:version>
-      <sparkle:shortVersionString>0.66.140</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<ul><li>Navegação estilo Live: clique só posiciona, régua com scrub, Shift+setas estendem a seleção, ⌘4 liga/desliga a grade, setas no cabeçalho abrem/fecham grupos</li></ul>]]></description>
-      <enclosure url="https://github.com/kizzydark/dreams-releases/releases/download/v0.66.140/Dreams-0.66.140.zip" length="37817492" type="application/octet-stream" sparkle:edSignature="2eFEygVIuOCkFWakIFGeAD4wtuKaldc6S7vrme7JZr4REXLxQXMDZ6Kgjqu2U2sC6TLVqBfdKzSB4d7m04OJDA=="/>
     </item>
   </channel>
 </rss>
